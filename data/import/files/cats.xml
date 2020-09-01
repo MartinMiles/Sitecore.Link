@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <cats>
+    <category id="1" code="str" tops="1">Beginners: start working with Sitecore</category>
+    <category id="2" code="daa" tops="1">Data architecture and content structure</category>
+    <category id="3" code="gen" tops="1">Items, URLs, wildcards</category>
+    <category id="4" code="fie" tops="1">Fields</category>
+    <category id="5" code="lnk" tops="1">Link field</category>
+    <category id="6" code="tree" tops="1">Treelist fields</category>
+    <category id="7" code="mult" tops="1">Multilist fields</category>
+    <category id="8" code="tem" tops="1">Templates</category>
+    <category id="9" code="tok" tops="1">Standard values and tokens</category>
+    <category id="10" code="bra" tops="1">Branch templates</category>
+    <category id="11" code="pre" tops="1">Presentation</category>
+    <category id="12" code="ver" tops="1">Versions</category>
+    <category id="13" code="vl" tops="1">Versioned layouts</category>
+    <category id="14" code="pla" tops="1">Placeholders</category>
+    <category id="15" code="dyn" tops="1">Dynamic placeholders</category>
+    <category id="16" code="das" tops="1">Datasources</category>
+    <category id="17" code="que" tops="1">Queries</category>
+    <category id="18" code="que" tops="1">Recycle bin</category>
+    <category id="19" code="code" tops="1">API, code snippets, extension methods</category>
+    <category id="20" code="bes" tops="1">Best practices and common thoughts</category>
+    <category id="21" code="ml" tops="2">Media library</category>
+    <category id="22" code="pdf" tops="2">PDF in Media Library</category>
+    <category id="23" code="ico" tops="2">Icons</category>
+    <category id="24" code="mvc" tops="2">MVC</category>
+    <category id="25" code="mvca" tops="2">MVC Areas</category>
+    <category id="26" code="wapi" tops="2">MVC WebAPI</category>
+    <category id="27" code="pub" tops="2">Publishing</category>
+    <category id="28" code="pbt" tops="2">Publishing Targets</category>
+    <category id="29" code="pbs" tops="2">Publishing service</category>
+    <category id="30" code="wor" tops="2">Workflows and workbox</category>
+    <category id="31" code="rul" tops="2">Rules engine</category>
+    <category id="32" code="mul" tops="2">Multisite</category>
+    <category id="33" code="lan" tops="2">Languages and localization</category>
+    <category id="34" code="flb" tops="2">Language fallback</category>
+    <category id="35" code="dict" tops="2">Dictionary</category>
+    <category id="36" code="val" tops="2">Validation</category>
+    <category id="37" code="dap" tops="2">Data providers</category>
+    <category id="38" code="ded" tops="2">Device detection</category>
+    <category id="39" code="pip" tops="3">Pipelines</category>
+    <category id="40" code="com" tops="3">Commands</category>
+    <category id="41" code="eve" tops="3">Events and Event Queues</category>
+    <category id="42" code="ext" tops="3">Extending Sitecore Client</category>
+    <category id="44" code="rte" tops="4">Rich Text Editor</category>
+    <category id="43" code="ced" tops="4">Content Editor</category>
+    <category id="45" code="pe" tops="4">Page Editor</category>
+    <category id="46" code="pef" tops="4">Page Editor frames</category>
+    <category id="47" code="gut" tops="4">Gutters</category>
+    <category id="48" code="ee" tops="4">Experience Editor (EE)</category>
+    <category id="49" code="prf" tops="5">Performance</category>
+    <category id="50" code="cac" tops="5">Caches</category>
+    <category id="51" code="red" tops="5">Redis</category>
+    <category id="52" code="sess" tops="5">Session state</category>
+    <category id="53" code="html" tops="5">Html cache</category>
+    <category id="54" code="mcf" tops="5">Media Cache Folder</category>
+    <category id="55" code="ser" tops="6">Serialization</category>
+    <category id="56" code="uni" tops="6">Unicorn and Rainbow format</category>
+    <category id="57" code="pac" tops="6">Packaging</category>
+    <category id="58" code="cou" tops="6">Sitecore Courier</category>
+    <category id="59" code="int" tops="6">Continious integration and delivery</category>
+    <category id="60" code="sch" tops="6">Schedulers, tasks and agents</category>
+    <category id="61" code="ldb" tops="6">Link Database</category>
+    <category id="62" code="upg" tops="6">Version Upgrade</category>
+    <category id="63" code="umt" tops="6">Express Migration Tool</category>
+    <category id="64" code="upd" tops="6">Update Center</category>
+    <category id="65" code="mai" tops="6">Other maintenance</category>
+    <category id="66" code="arc" tops="7">Architecture, scalability and infrastructure</category>
+    <category id="67" code="azu" tops="7">Azure</category>
+    <category id="68" code="azd" tops="7">Azure DevOps</category>
+    <category id="69" code="azs" tops="7">Azure Search</category>
+    <category id="70" code="paas" tops="7">Sitecore Web Apps / Azure PaaS</category>
+    <category id="72" code="ai" tops="7">Application Insights</category>
+    <category id="73" code="cdn" tops="7">CDN</category>
+    <category id="74" code="dat" tops="7">Databases</category>
+    <category id="75" code="doc" tops="7">Docker with Sitecore 9.x</category>
+    <category id="76" code="AWS" tops="7">Sitecore in AWS</category>
+    <category id="71" code="ase" tops="7">Azure Security</category>
+    <category id="77" code="conf" tops="8">Configuring Sitecore</category>
+    <category id="78" code="pat" tops="8">Config Include folder patch files</category>
+    <category id="79" code="dtm" tops="8">Date / time with Sitecore</category>
+    <category id="80" code="sea" tops="9">Search and Indexes</category>
+    <category id="81" code="lin" tops="9">ContentSearch</category>
+    <category id="83" code="sel" tops="9">Lucene</category>
+    <category id="84" code="sol" tops="9">Solr</category>
+    <category id="87" code="cov" tops="9">Coveo for Sitecore</category>
+    <category id="88" code="buc" tops="9">Buckets and Tags</category>
+    <category id="89" code="fac" tops="9">Faceted search</category>
+    <category id="90" code="tag" tops="9">Tagging</category>
+    <category id="85" code="scld" tops="9">SolrCloud</category>
+    <category id="86" code="rbi" tops="9">Rebuilding index</category>
+    <category id="82" code="cmf" tops="9">Computed Fields</category>
+    <category id="91" code="dmstr" tops="10">Tracking</category>
+    <category id="92" code="dmsper" tops="10">Personalization</category>
+    <category id="93" code="mon" tops="10">Mongo DB</category>
+    <category id="94" code="xdb" tops="10">xDb general topics</category>
+    <category id="95" code="xpa" tops="10">xAnalytics, engagement and goals</category>
+    <category id="96" code="dmsab" tops="10">Experience Optimization, A/B Testing</category>
+    <category id="97" code="per" tops="10">Pattern (profile) cards / Personas</category>
+    <category id="98" code="rep" tops="10">Reporting and Processing</category>
+    <category id="99" code="geo" tops="10">Geo IP and MaxMind</category>
+    <category id="100" code="xcl" tops="10">Managed Cloud / xDB Cloud</category>
+    <category id="101" code="con" tops="10">Contacts / Experience Profile</category>
+    <category id="102" code="lmg" tops="10">List Manager</category>
+    <category id="103" code="pa" tops="10">Path Analyser</category>
+    <category id="104" code="xmd" tops="10">Explore Mode</category>
+    <category id="176" code="ten" tops="11">Sitecore 10 general</category>
+    <category id="177" code="dock10" tops="11">Sitecore 10 containers</category>
+    <category id="178" code="core" tops="11">Headless ASP.NET Core</category>
+    <category id="179" code="CLI" tops="11">Command Line Interface (CLI)</category>
+    <category id="180" code="hor" tops="11">Horizon</category>
+    <category id="181" code="priv" tops="11">Privacy</category>
+    <category id="158" code="s9" tops="12">Sitecore 9 general</category>
+    <category id="159" code="xc" tops="12">xConnect</category>
+    <category id="160" code="fc" tops="12">Federated Authentication</category>
+    <category id="161" code="sif" tops="12">Sitecore Installation Framework (SIF)</category>
+    <category id="162" code="s3" tops="12">SPEAK 3.0</category>
+    <category id="163" code="s9f" tops="12">Sitecore 9 Forms</category>
+    <category id="164" code="dph" tops="12">Sitecore 9 Dynamic Placeholders</category>
+    <category id="165" code="ста" tops="12">Sitecore 9 Configuration</category>
+    <category id="166" code="mau" tops="12">Marketing Automation</category>
+    <category id="167" code="nineone" tops="12">Sitecore 9.1</category>
+    <category id="168" code="cort" tops="12">Cortex</category>
+    <category id="169" code="ids" tops="12">Identity Server (IDS)</category>
+    <category id="170" code="host" tops="12">Sitecore Host</category>
+    <category id="171" code="utr" tops="12">Universal Tracker</category>
+    <category id="172" code="ninetwo" tops="12">Sitecore 9.2</category>
+    <category id="173" code="sia" tops="12">Sitecore Install Assistant (SIA)</category>
+    <category id="174" code="chb" tops="12">Content Hub and DAM</category>
+    <category id="175" code="ninethree" tops="12">Sitecore 9.3</category>
+    <category id="145" code="jss" tops="13">General JSS</category>
+    <category id="146" code="gql" tops="13">GraphQL</category>
+    <category id="137" code="sec" tops="14">Security</category>
+    <category id="138" code="adm" tops="14">Admin folder pages</category>
+    <category id="139" code="mep" tops="14">Membership Provider</category>
+    <category id="140" code="usr" tops="14">Users and roles</category>
+    <category id="141" code="permis" tops="14">Permissions</category>
+    <category id="142" code="act" tops="14">Active Directory and LDAP</category>
+    <category id="143" code="hrd" tops="14">Security Hardening</category>
+    <category id="144" code="crt" tops="14">HTTPS, SSL, TLS, Certificates</category>
+    <category id="105" code="ali" tops="15">Aliases, clones and proxies</category>
+    <category id="106" code="seo" tops="15">SEO, sitemaps and redirects</category>
+    <category id="107" code="err" tops="15">Error pages</category>
+    <category id="108" code="ema" tops="16">ECM and emailing</category>
+    <category id="109" code="exm" tops="16">Email Experince Manager (EXM)</category>
+    <category id="110" code="dev" tops="17">Development and Visual Studio</category>
+    <category id="111" code="tes" tops="17">Automated testing</category>
+    <category id="112" code="fdb" tops="17">FakeDb</category>
+    <category id="113" code="ioc" tops="17">IoC / Dependency Injection with Sitecore</category>
+    <category id="114" code="tool" tops="17">Tools</category>
+    <category id="115" code="sim" tops="17">Sitecore Instance Manager (SIM)</category>
+    <category id="116" code="tds" tops="17">TDS and Razl</category>
+    <category id="117" code="tdsc" tops="17">TDS code generation</category>
+    <category id="118" code="roc" tops="17">Rocks</category>
+    <category id="119" code="glas" tops="17">Glass Mapper</category>
+    <category id="120" code="log" tops="17">Logging or tracing</category>
+    <category id="121" code="ref" tops="17">Reflection, debugging, rev. engineering</category>
+    <category id="122" code="js" tops="17">Sitecore &amp; frontend - Javascript, CSS</category>
+    <category id="123" code="git" tops="17">Useful GitHub repositories</category>
+    <category id="124" code="xam" tops="17">Xamarin for Sitecore</category>
+    <category id="125" code="prdc" tops="17">Productivity</category>
+    <category id="126" code="pow" tops="18">PowerShell Extension (SPE)</category>
+    <category id="127" code="soc" tops="18">Social with Sitecore</category>
+    <category id="128" code="pxm" tops="18">Print Experience Manager</category>
+    <category id="129" code="mod" tops="18">Other modules for Sitecore</category>
+    <category id="130" code="des" tops="18">Demonstration solutions</category>
+    <category id="131" code="rss" tops="19">RSS</category>
+    <category id="132" code="api" tops="19">Item's Web Api</category>
+    <category id="133" code="crm" tops="19">Salesforce</category>
+    <category id="134" code="comm" tops="19">CRMs and Connectors</category>
+    <category id="135" code="scom" tops="19">Sitecore Commerce</category>
+    <category id="136" code="bi" tops="19">Cognitive Services / Business Intelligence</category>
+    <category id="147" code="eig" tops="20">Sitecore 8 general</category>
+    <category id="148" code="cmsonly" tops="20">Experience Management (CMS-only)</category>
+    <category id="149" code="fxm" tops="20">Federated Experience Manager (FXM)</category>
+    <category id="150" code="one" tops="20">Sitecore 8.1</category>
+    <category id="151" code="eit" tops="20">Sitecore 8.2</category>
+    <category id="152" code="spe" tops="20">SPEAK</category>
+    <category id="153" code="ses" tops="20">Sitecore Services Client</category>
+    <category id="154" code="hab" tops="20">Habitat and modular architecture</category>
+    <category id="155" code="hel" tops="20">Helix principles</category>
+    <category id="156" code="def" tops="20">Data Exchange Framework (DEF)</category>
+    <category id="157" code="cor" tops="20">.NET Core</category>
+    <category id="182" code="sxa" tops="21">SXA General</category>
+    <category id="183" code="sbl" tops="21">Building layout with SXA</category>
+    <category id="184" code="cds" tops="21">Content and data in SXA</category>
+    <category id="185" code="sce" tops="21">SXA Styles, themes, Creative Exchange</category>
+    <category id="186" code="scm" tops="21">SXA Components</category>
+    <category id="187" code="cds" tops="21">Site structure and navigation in SXA</category>
+    <category id="188" code="sao" tops="21">Asset optimizer</category>
+    <category id="189" code="sxs" tops="21">Search in SXA</category>
+    <category id="190" code="san" tops="21">SXA and analytics</category>
+    <category id="191" code="sxm" tops="21">SXA installation and maintenance</category>
+    <category id="192" code="cds" tops="21">SXA advanced / under the hood</category>
+    <category id="193" code="ssec" tops="21">SXA security</category>
+    <category id="194" code="stax" tops="21">SXA taxonomy, filtering and tags</category>
+    <category id="195" code="scr" tops="21">SXA Scriban</category>
+    <category id="196" code="eig" tops="22">Sitecore 7 references</category>
+    <category id="197" code="lic" tops="22">Sitecore licensing</category>
+    <category id="198" code="oth" tops="22">Other</category>
+    <category id="199" code="se" tops="22">StackExchange questions (unclassified)</category>
+    <category id="200" code="vid" tops="22">Sitecore videos</category>
+
+  </cats>
+</root>

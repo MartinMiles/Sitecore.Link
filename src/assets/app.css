@@ -1,0 +1,36 @@
+/*
+  Hides Sitecore Experience Editor markup,
+  if you run the app in connected mode while the Sitecore cookies
+  are set to edit mode.
+*/
+.scChromeData, .scpm { 
+  display: none !important; 
+}
+
+fieldset.MuiFormControl-root {
+  width: 100%;
+}
+
+label.MuiFormControlLabel-root {
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.MuiButtonBase-root.MuiIconButton-root.MuiCheckbox-root {
+  padding: 3px;
+}
+
+.MuiTypography-root.MuiFormControlLabel-label, 
+.MuiTypography-root.MuiTreeItem-label {
+  font-size: small;
+  width: 95%;
+}
+
+body {
+  margin-bottom: 36px;
+  background-color: #f2f5f7;
+  color: #686e71;
+  overflow-x: hidden;
+  margin-right: calc(-1 * (100vw - 100%));
+}

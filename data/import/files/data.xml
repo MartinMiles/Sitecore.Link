@@ -1,0 +1,1385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <articles>
+    <article date="2014/07/14" title="Add a New Item Version using Item Web API" url="https://sitecorecontextitem.wordpress.com/2014/07/14/add-a-new-item-version-using-the-sitecore-item-web-api/">
+      <categories>
+        <code>12</code>
+      </categories>
+    </article>
+    <article date="2014/02/22" title="Accessing Item From an External Application" url="http://sitecoreguild.blogspot.co.uk/2014/02/accessing-sitecore-item-from-external.html">
+      <categories>
+        <code>3</code>
+      </categories>
+    </article>
+    <article date="2015/07/16" title="Expand New Tokens Added to Standard Values on All Items Using Its Template" url="https://sitecorejunkie.com/2015/07/16/expand-new-tokens-added-to-standard-values-on-all-items-using-its-template-in-sitecore/">
+      <categories>
+        <code>9</code>
+      </categories>
+    </article>
+    <article date="2012/08/15" title="Aliasing – short URLs for happier marketing" url="https://rusitecore.wordpress.com/2012/08/15/aliasing-short-urls-for-happier-marketing/">
+      <categories>
+        <code>105</code>
+      </categories>
+    </article>
+    <article date="2015/01/10" title="10 Best Microsoft Azure Features For 2015" url="http://blogs.perficient.com/microsoft/2015/01/10-best-microsoft-azure-features-for-2015/">
+      <categories>
+        <code>67</code>
+      </categories>
+    </article>
+    <article date="2015/07/03" title="Migrating a sitecore DB to PAAS SQL Azure" url="http://blog.boro2g.co.uk/migrating-a-sitecore-db-to-paas-sql-azure/">
+      <categories>
+        <code>70</code>
+      </categories>
+    </article>
+    <article date="2013/01/31" title="A common problem with large scale web applications" url="http://mikael.com/2013/01/a-common-problem-with-large-scale-web-applications/">
+      <categories>
+        <code>66</code>
+      </categories>
+    </article>
+    <article date="2011/10/05" title="Enable sitecore DMS analytics behind a proxy or a CDN" url="http://blog.najmanowicz.com/2011/10/05/enable-sitecore-dms-analytics-behind-a-proxy-or-a-cdn/">
+      <categories>
+        <code>73</code>
+      </categories>
+    </article>
+    <article date="2014/02/06" title="Sitecore operations: 4 must have resources" url="http://www.nonlinearcreations.com/Digital/how-we-think/articles/2014/02/Sitecore-operations-4-must-haves.aspx">
+      <categories>
+        <code>20</code>
+      </categories>
+    </article>
+    <article date="2013/01/01" title="Sitecore Administration Best Practices" url="http://www.cmsbestpractices.com/sitecore-best-practices/sitecore-administration-best-practices/">
+      <categories>
+        <code>143</code>
+      </categories>
+    </article>
+    <article date="2013/12/01" title="Beware of multiple item buckets in a hierarchy" url="https://sitecorecontextitem.wordpress.com/2013/12/01/beware-of-multiple-buckets-in-a-hierarchy/">
+      <categories>
+        <code>88</code>
+      </categories>
+    </article>
+    <article date="2014/03/24" title="Content tagging with Sitecore 7" url="https://community.sitecore.net/technical_blogs/b/sitecore_7_development_team/posts/content-tagging-with-sitecore-7">
+      <categories>
+        <code>90</code>
+      </categories>
+    </article>
+    <article date="2014/10/19" title="Allowing sublayouts to control their own HTML cache keys" url="http://www.matthewkenny.com/2014/10/allowing-sublayouts-to-control-their-own-html-cache-keys/">
+      <categories>
+        <code>53</code>
+      </categories>
+    </article>
+    <article date="2015/01/08" title="Another Sitecore MVC output caching option: varybyhome" url="https://community.sitecore.net/technical_blogs/b/sitecorejohn_blog/posts/another-sitecore-mvc-output-caching-option-varybyhome">
+      <categories>
+        <code>50</code>
+      </categories>
+    </article>
+    <article date="2014/09/22" title="Example of Sitecore Command Template With User Interface" url="http://sitecoreworld.blogspot.co.uk/2014/09/example-of-sitecore-command-template_21.html">
+      <categories>
+        <code>40</code>
+      </categories>
+    </article>
+    <article date="2015/05/11" title="5 Reasons To Pick Active Commerce For Your E-Commerce Needs" url="https://sitecorecorner.com/2015/05/11/5-reasons-to-pick-active-commerce-for-your-e-commerce-needs/">
+      <categories>
+        <code>134</code>
+      </categories>
+    </article>
+    <article date="2015/08/19" title="Custom product relationships in Sitecore Commerce" url="https://community.sitecore.net/technical_blogs/b/the_commerce_experience/posts/custom-product-relationships-in-sitecore-commerce">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2012/03/14" title="Add a custom section in the config" url="http://sitecoreblog.blogspot.co.uk/2012/03/add-custom-section-in-config.html">
+      <categories>
+        <code>77</code>
+        <code>78</code>
+      </categories>
+    </article>
+    <article date="2013/06/07" title="Auto deploy Sitecore items using Unicorn and TeamCity" url="http://andrew.lansdowne.me/2013/06/07/auto-deploy-sitecore-items-using-unicorn-and-teamcity/">
+      <categories>
+        <code>59</code>
+      </categories>
+    </article>
+    <article date="2012/09/03" title="A SQL template for attaching Sitecore DBs" url="http://www.dansolovay.com/2012/09/a-sql-template-for-attaching-sitecore.html">
+      <categories>
+        <code>74</code>
+      </categories>
+    </article>
+    <article date="2015/02/23" title="Applying datasources to controls – the easy way" url="https://sitecorejim.wordpress.com/2015/02/23/applying-datasources-to-sitecore-controls-the-easy-way/">
+      <categories>
+        <code>16</code>
+      </categories>
+    </article>
+    <article date="2014/11/01" title="Rebuilding the Sitecore analytics index" url="https://community.sitecore.net/technical_blogs/b/getting_to_know_sitecore/posts/rebuilding-the-sitecore-analytics-index">
+      <categories>
+        <code>94</code>
+        <code>94</code>
+      </categories>
+    </article>
+    <article date="2014/05/24" title="Adding Personalization Rules without modifying files" url="https://blog.vutborg.dk/2014/05/24/adding-personalization-rules-without-modifying-files/">
+      <categories>
+        <code>92</code>
+      </categories>
+    </article>
+    <article date="2014/11/28" title="Track a Goal Hit via Sitecore analytics api" url="https://sitecorecommerce.wordpress.com/2014/11/28/track-a-goal-hit-via-sitecore-analytics-api/">
+      <categories>
+        <code>91</code>
+      </categories>
+    </article>
+    <article date="2013/10/21" title="Taking on the top 10 reasons to A/B Test" url="https://theagilecoder.wordpress.com/2013/10/21/sitecore-taking-on-the-top-10-reasons-to-ab-test/">
+      <categories>
+        <code>96</code>
+      </categories>
+    </article>
+    <article date="2014/04/02" title="Testing Geo Localisation" url="http://blog.coralweb.com.au/index.php/testing-geo-localisation-in-sitecore/">
+      <categories>
+        <code>99</code>
+      </categories>
+    </article>
+    <article date="2013/09/09" title="ECM on CD" url="https://community.sitecore.net/technical_blogs/b/sitecore_magnified/posts/ecm-on-cd">
+      <categories>
+        <code>108</code>
+      </categories>
+    </article>
+    <article date="2009/03/31" title="Handing HTTP 404" url="https://sdn.sitecore.net/upload/sitecore6/handling_http_404_a4.pdf">
+      <categories>
+        <code>107</code>
+      </categories>
+    </article>
+    <article date="2014/12/03" title="Add a custom section in the content editor" url="http://sitecoreblog.blogspot.co.uk/2014/12/add-custom-section-in-content-editor.html">
+      <categories>
+        <code>42</code>
+      </categories>
+    </article>
+    <article date="2013/03/09" title="Where Is This Field Defined? Add ‘Goto Template’ Links for Fields in the Content Editor" url="https://sitecorejunkie.com/2013/03/09/where-is-this-field-defined-add-goto-template-links-for-fields-in-the-sitecore-content-editor/">
+      <categories>
+        <code>4</code>
+        <code>8</code>
+      </categories>
+    </article>
+    <article date="2011/03/25" title="The Sitecore Gutter" url="http://hermanussen.eu/sitecore/wordpress/2011/03/the-sitecore-gutter/">
+      <categories>
+        <code>47</code>
+      </categories>
+    </article>
+    <article date="2011/05/31" title="All about events inSitecore" url="https://community.sitecore.net/technical_blogs/b/sitecorejohn_blog/posts/all-about-events-in-the-sitecore-asp-net-cms">
+      <categories>
+        <code>41</code>
+      </categories>
+    </article>
+    <article date="2015/05/05" title="A Multiple Root Treelist Field" url="http://kamsar.net/index.php/2015/05/A-Multiple-Root-Treelist-Field/">
+      <categories>
+        <code>6</code>
+      </categories>
+    </article>
+    <article date="2015/07/06" title="Custom Multisite Multilist with Search field" url="https://techmusingz.wordpress.com/2015/07/06/custom-multisite-multilist-with-search-sitecore-field/">
+      <categories>
+        <code>7</code>
+      </categories>
+    </article>
+    <article date="2014/09/05" title="Working with Link Fields" url="http://sitecoreworld.blogspot.co.uk/2014/09/working-with-sitecore-link-fields.html">
+      <categories>
+        <code>5</code>
+      </categories>
+    </article>
+    <article date="2014/03/21" title="A brief look at the Sitecore HistoryManager" url="https://blog.horizontalintegration.com/2014/03/21/a-brief-look-at-the-sitecore-historymanager/">
+      <categories>
+        <code>198</code>
+      </categories>
+    </article>
+    <article date="2014/10/29" title="Bundling and Minification error with IIS7" url="https://himynameistim.wordpress.com/2014/10/29/bundling-and-minification-error-with-iis7/">
+      <categories>
+        <code>24</code>
+      </categories>
+    </article>
+    <article date="2015/02/22" title="Chain Together Sitecore Functionality Using the Chain-of-responsibility Design Pattern" url="https://sitecorejunkie.com/2015/02/22/chain-together-sitecore-functionality-using-the-chain-of-responsibility-design-pattern/">
+      <categories>
+        <code>110</code>
+      </categories>
+    </article>
+    <article date="2015/01/05" title="Creating a Custom Administration Page with Authentication" url="http://blog.karbyn.com/articles/creating-a-custom-sitecore-administration-page-with-authentication/">
+      <categories>
+        <code>138</code>
+      </categories>
+    </article>
+    <article date="2013/11/25" title="Building a Single Page Application with AngularJS and Sitecore: Part 1" url="http://blog.petersondave.com/sitecore/angularjs/Building-a-Single-Page-Application-with-AngularJS-and-Sitecore-Part-1/">
+      <categories>
+        <code>122</code>
+      </categories>
+    </article>
+    <article date="2013/07/10" title="Generate a Google sitemap for a Million plus Sitecore items site" url="http://www.nttdatasitecore.com/Blog/2013/October/Generate-a-Google-sitemap-for-a-Million-plus-Sitecore-items-site">
+      <categories>
+        <code>106</code>
+      </categories>
+    </article>
+    <article date="2013/08/25" title="Glimpse for Sitecore" url="https://kevinobee.wordpress.com/2013/08/25/glimpse-for-sitecore/">
+      <categories>
+        <code>114</code>
+      </categories>
+    </article>
+    <article date="2015/02/25" title="Query your datasource using custom tokens" url="https://visionsincode.wordpress.com/2015/02/25/query-your-datasource-using-custom-tokens-in-sitecore/">
+      <categories>
+        <code>17</code>
+      </categories>
+    </article>
+    <article date="2014/06/25" title="Sitecore CMS also uses the Sitecore dictionary" url="https://sitecorejim.wordpress.com/2014/06/25/sitecore-cms-also-uses-the-sitecore-dictionary/">
+      <categories>
+        <code>35</code>
+      </categories>
+    </article>
+    <article date="2015/07/05" title="Creating a Sitecore Module" url="https://techmusingz.wordpress.com/2015/07/05/creating-a-sitecore-module/">
+      <categories>
+        <code>57</code>
+      </categories>
+    </article>
+    <article date="2014/08/05" title="Sitecore Presentation: A dynamic page editor experience" url="http://goblinrockets.com/2014/08/05/sitecore-presentation-dynamic-page-editor-experience/">
+      <categories>
+        <code>45</code>
+      </categories>
+    </article>
+    <article date="2011/12/05" title="Using the Sitecore EditFrame with a DataSource" url="http://blog.jan.hebnes.dk/2011/12/using-sitecore-editframe-with-datasource.html">
+      <categories>
+        <code>46</code>
+      </categories>
+    </article>
+    <article date="1970/01/01" title="Optimizing Performance" url="https://sdn.sitecore.net/Articles/Administration/Sitecore Performance/Optimizing Sitecore 6 and later/Optimizing Performance in Sitecore.aspx">
+      <categories>
+        <code>49</code>
+      </categories>
+    </article>
+    <article date="2011/05/31" title="Important pipelines" url="https://community.sitecore.net/technical_blogs/b/sitecorejohn_blog/posts/important-pipelines-in-the-sitecore-asp-net-cms">
+      <categories>
+        <code>39</code>
+      </categories>
+    </article>
+    <article date="2011/11/17" title="console for sitecore - What can it do for me?" url="http://blog.najmanowicz.com/2011/11/17/powershell-console-for-sitecore-what-can-it-do-for-me/">
+      <categories>
+        <code>126</code>
+      </categories>
+    </article>
+    <article date="2014/11/23" title="Asymmetrical Placeholder Keys in Sitecore 7.5" url="http://jockstothecore.com/asymmetrical-placeholder-keys/">
+      <categories>
+        <code>14</code>
+      </categories>
+    </article>
+    <article date="2012/06/27" title="Dynamic Placeholder Keys" url="http://blog.boro2g.co.uk/dynamic-placeholder-keys-in-sitecore/">
+      <categories>
+        <code>15</code>
+      </categories>
+    </article>
+    <article date="2015/03/13" title="Decoupled Sublayouts" url="https://remalabouayesh.com/2015/03/13/decoupled-sublayouts-in-sitecore/">
+      <categories>
+        <code>11</code>
+      </categories>
+    </article>
+    <article date="2014/08/14" title="2 Big Improvements To Publishing In Sitecore 7.2" url="http://getfishtank.ca/blog/2-big-improvements-to-publishing-in-sitecore-7">
+      <categories>
+        <code>27</code>
+        <code>196</code>
+      </categories>
+    </article>
+    <article date="2011/05/03" title="Default Publishing Targets" url="https://sitecorebasics.wordpress.com/2011/05/03/default-publishing-targets/">
+      <categories>
+        <code>28</code>
+      </categories>
+    </article>
+    <article date="2015/09/03" title="Accessing Private Methods and Properties in Sitecore using Reflection" url="https://jammykam.wordpress.com/2015/09/03/accessing-private-methods-and-properties-in-sitecore/">
+      <categories>
+        <code>121</code>
+      </categories>
+    </article>
+    <article date="2013/11/07" title="Add a css class to the richtext editor" url="http://sitecoreblog.blogspot.co.uk/2013/11/add-css-class-to-richtext-editor.html">
+      <categories>
+        <code>44</code>
+      </categories>
+    </article>
+    <article date="2011/06/20" title="Major components of Sitecore Rocks" url="https://community.sitecore.net/technical_blogs/b/sitecorejohn_blog/posts/major-components-of-sitecore-rocks">
+      <categories>
+        <code>118</code>
+      </categories>
+    </article>
+    <article date="2014/11/05" title="All about RSS feeds with Sitecore" url="https://community.sitecore.net/technical_blogs/b/sitecorejohn_blog/posts/all-about-rss-feeds-with-the-sitecore-asp-net-cms-john-west-sitecore-blog">
+      <categories>
+        <code>131</code>
+      </categories>
+    </article>
+    <article date="2011/06/01" title="All about Sitecore Rules Engine" url="https://community.sitecore.net/technical_blogs/b/sitecorejohn_blog/posts/all-about-the-sitecore-asp-net-cms-rules-engine">
+      <categories>
+        <code>31</code>
+      </categories>
+    </article>
+    <article date="2012/10/03" title="Basics of invoking Sitecore agent programmatically" url="https://sitecorebasics.wordpress.com/2012/10/03/basics-of-invoking-sitecore-agent-programmatically/">
+      <categories>
+        <code>60</code>
+      </categories>
+    </article>
+    <article date="2015/08/19" title="100% Code Coverage for Unit Testing is attainable (even in Sitecore)" url="https://cardinalcore.co.uk/2015/08/19/100-code-coverage-for-unit-testing-is-attainable/">
+      <categories>
+        <code>111</code>
+      </categories>
+    </article>
+    <article date="2015/10/21" title="Unit Testing an Event Handler with Sitecore.FakeDB" url="http://www.dansolovay.com/2015/10/unit-testing-event-handler-with.html">
+      <categories>
+        <code>112</code>
+      </categories>
+    </article>
+    <article date="2009/12/01" title="Creating items from branches" url="https://briancaos.wordpress.com/2009/12/01/creating-items-from-branches-in-sitecore/">
+      <categories>
+        <code>10</code>
+      </categories>
+    </article>
+    <article date="2014/07/14" title=".update + .config = Love" url="http://jockstothecore.com/update-config-love/">
+      <categories>
+        <code>116</code>
+      </categories>
+    </article>
+    <article date="2011/02/04" title="Sitecore Serialization Guide" url="https://sdn.sitecore.net/upload/sitecore6/64/serialization_guide_sc60-64-a4.pdf">
+      <categories>
+        <code>55</code>
+      </categories>
+    </article>
+    <article date="2015/10/02" title="Introducing Transparent Sync in Unicorn 3" url="http://kamsar.net/index.php/2015/10/Unicorn-Introducing-Transparent-Sync/index.html">
+      <categories>
+        <code>56</code>
+      </categories>
+    </article>
+    <article date="2014/10/28" title="A bit of a hidden Sitecore feature in the core DB. Security policies" url="https://twitter.com/sitecoregeek/status/527059431327285248">
+      <categories>
+        <code>137</code>
+      </categories>
+    </article>
+    <article date="2014/05/19" title="Active Directory Module Localhost Setup" url="http://www.letsdositecore.com/active-directory-module-localhost-setup/">
+      <categories>
+        <code>142</code>
+      </categories>
+    </article>
+    <article date="2014/09/19" title="Creating a Globalization Role" url="http://blog.karbyn.com/articles/creating-a-globalization-role-in-sitecore/">
+      <categories>
+        <code>140</code>
+      </categories>
+    </article>
+    <article date="2013/06/08" title="Enforce Password Expiration" url="https://sitecorejunkie.com/2013/06/08/enforce-password-expiration-in-the-sitecore-cms/">
+      <categories>
+        <code>141</code>
+      </categories>
+    </article>
+    <article date="2014/11/24" title="How to Create – Sitecore Custom Membership Provider" url="https://himadritechblog.wordpress.com/2014/11/24/sitecore-custom-membership-provider/">
+      <categories>
+        <code>139</code>
+      </categories>
+    </article>
+    <article date="2013/10/13" title="HTTPS" url="http://laubplusco.net/https-in-sitecore/">
+      <categories>
+        <code>144</code>
+      </categories>
+    </article>
+    <article date="2014/02/03" title="Absolute urls for internal links with Glass Mapper" url="https://ctor.io/absolute-urls-for-internal-links-with-glass-mapper/">
+      <categories>
+        <code>119</code>
+      </categories>
+    </article>
+    <article date="2013/06/08" title="Add Additional Item Properties in Sitecore Item Web API Responses" url="https://sitecorejunkie.com/2013/06/08/add-additional-item-properties-in-sitecore-item-web-api-responses/">
+      <categories>
+        <code>132</code>
+      </categories>
+    </article>
+    <article date="2014/07/11" title="Agnostic IoC Introduction" url="https://cardinalcore.co.uk/agnostic-ioc/introdution/">
+      <categories>
+        <code>113</code>
+      </categories>
+    </article>
+    <article date="2013/12/01" title="Adding Custom Language Code" url="http://www.bugdebugzone.com/2013/12/adding-custom-language-code-in-sitecore.html">
+      <categories>
+        <code>33</code>
+      </categories>
+    </article>
+    <article date="2013/01/26" title="Implementing the LanguageFallback module" url="http://www.mikkelhm.dk/archive/implementing-the-languagefallback-module">
+      <categories>
+        <code>34</code>
+      </categories>
+    </article>
+    <article date="2014/03/24" title="Boosting" url="https://allthingssitecore.com/2014/03/24/boosting/">
+      <categories>
+        <code>81</code>
+      </categories>
+    </article>
+    <article date="2013/10/17" title="Facets explained" url="https://community.sitecore.net/technical_blogs/b/sitecore_7_development_team/posts/facets-explained">
+      <categories>
+        <code>89</code>
+      </categories>
+    </article>
+    <article date="2014/11/29" title="Sitecore Search Developers Cheat Sheet" url="https://www.cheatography.com/kpatil/cheat-sheets/sitecore-search-developers/">
+      <categories>
+        <code>80</code>
+      </categories>
+    </article>
+    <article date="2014/09/09" title="Movieshop - Building an awesome search experience in Sitecore - Part 3, Custom fields and computed fields" url="http://www.mikkelhm.dk/archive/movieshop-building-an-awesome-search-experince-in-sitecore-part-3-custom-fields-and-computed-fields">
+      <categories>
+        <code>82</code>
+      </categories>
+    </article>
+    <article date="2009/06/26" title="Lucene walk through – Part 2: The example" url="http://learnsitecore.cmsuniverse.net/en/Developers/Articles/2009/06/LuceneQuery2.aspx">
+      <categories>
+        <code>83</code>
+      </categories>
+    </article>
+    <article date="2016/06/08" title="Using Solr or Lucene" url="https://doc.sitecore.net/sitecore_experience_platform/setting_up__maintaining/search_and_indexing/indexing/using_solr_or_lucene">
+      <categories>
+        <code>84</code>
+      </categories>
+    </article>
+    <article date="2011/05/25" title="Write to a Custom Sitecore Log with log4net" url="http://firebreaksice.com/write-to-a-custom-sitecore-log-with-log4net/">
+      <categories>
+        <code>120</code>
+      </categories>
+    </article>
+    <article date="2014/05/27" title="3 tips: Preparing for a Sitecore upgrade" url="http://www.nonlinearcreations.com/Digital/how-we-think/articles/2014/05/Sitecore-Upgrade-Tips.aspx">
+      <categories>
+        <code>62</code>
+      </categories>
+    </article>
+    <article date="2015/10/20" title="Sitecore 8.1 Release Notes" url="https://dev.sitecore.net/Downloads/Sitecore Experience Platform/Sitecore 81/Sitecore Experience Platform 81 Initial Release/Release Notes">
+      <categories>
+        <code>65</code>
+      </categories>
+    </article>
+    <article date="2014/03/17" title="Adding a language specific file to the Sitecore Media Library programmatically" url="https://sitecorebasics.wordpress.com/2014/03/17/adding-a-language-specific-file-to-the-sitecore-media-library-programmatically/">
+      <categories>
+        <code>21</code>
+      </categories>
+    </article>
+    <article date="2011/02/17" title="Adding custom icons for the media library" url="http://sitecoreblog.blogspot.co.uk/2011/02/adding-custom-icons-for-media-library.html">
+      <categories>
+        <code>23</code>
+      </categories>
+    </article>
+    <article date="2013/10/23" title="Changing a PDF on the fly using Sitecore Media Request" url="http://laubplusco.net/changing-a-pdf-on-the-fly-using-sitecore-media-request/">
+      <categories>
+        <code>22</code>
+      </categories>
+    </article>
+    <article date="2014/08/08" title="Enable Multi-level Site Property Inheritance" url="http://sitecore.unic.com/2014/08/08/enable-multi-level-site-property-inheritance">
+      <categories>
+        <code>32</code>
+      </categories>
+    </article>
+    <article date="2015/02/04" title="Get url for area controller action from a View Rendering" url="http://sitecore.unic.com/2015/02/04/get-url-for-area-controller-action-from-a-view-rendering">
+      <categories>
+        <code>25</code>
+      </categories>
+    </article>
+    <article date="2015/04/09" title="Auto submit/skip items into different workflow states depending on language/condition" url="https://sitecorefootsteps.blogspot.co.uk/2015/04/auto-submitskip-items-into-different.html">
+      <categories>
+        <code>30</code>
+      </categories>
+    </article>
+    <article date="2015/05/06" title="Additional Publishing Module" url="http://kirkegaard-at.blogspot.co.uk/2015/05/additional-publishing-module.html">
+      <categories>
+        <code>147</code>
+      </categories>
+    </article>
+    <article date="2015/10/23" title="Sitecore 8.1 – Overview of the exciting new Marketing Features" url="https://blog.horizontalintegration.com/2015/10/23/sitecore-8-1-overview-of-the-exciting-new-marketing-features/">
+      <categories>
+        <code>150</code>
+      </categories>
+    </article>
+    <article date="2014/11/18" title="Associate a visitor to a Contact in Sitecore 7.5 Analytics" url="https://sitecorecommerce.wordpress.com/2014/11/18/associate-a-visitor-to-a-contact-in-sitecore-7-5-analytics/">
+      <categories>
+        <code>101</code>
+      </categories>
+    </article>
+    <article date="2015/10/22" title="EXM install fails when admin user is disabled" url="http://www.craigtaylor.us/2015/10/exm-install-fails-when-admin-user-is-disabled.html">
+      <categories>
+        <code>109</code>
+      </categories>
+    </article>
+    <article date="2015/03/30" title="Experiences with Sitecore FederatedExperience Manager" url="https://sitecorejim.wordpress.com/2015/03/30/experiences-with-sitecore-federated-experience-manager/">
+      <categories>
+        <code>149</code>
+      </categories>
+    </article>
+    <article date="2015/03/06" title="Firing up the Sitecore 8 Path Analyzer" url="http://www.coreblimeysitecore.com/blog/firing-up-the-sitecore-8-path-analyser/">
+      <categories>
+        <code>103</code>
+      </categories>
+    </article>
+    <article date="2016/03/04" title="The Social Connected events" url="https://doc.sitecore.net/social_connected/using_social_connected/the_social_connected_events">
+      <categories>
+        <code>127</code>
+      </categories>
+    </article>
+    <article date="2014/12/04" title="Add a SPEAK application to the Sitecore 8 Launchpad" url="http://laubplusco.net/add-speak-application-sitecore-launchpad/">
+      <categories>
+        <code>152</code>
+      </categories>
+    </article>
+    <article date="2015/02/23" title="Cascading renderings in Sitecore 8" url="http://www.craigtaylor.us/2015/02/cascading-renderings-in-sitecore-8.html">
+      <categories>
+        <code>13</code>
+      </categories>
+    </article>
+    <article date="2015/05/19" title="Gzip WebApi Response Content using an attribute" url="http://laubplusco.net/gzip-webapi-response-content-using-an-attribute/">
+      <categories>
+        <code>153</code>
+      </categories>
+    </article>
+    <article date="2014/06/11" title="4 Advantages to using MongoDB" url="http://www.delphicdigital.com/blog/4-advantages-to-using-mongodb-in-sitecore">
+      <categories>
+        <code>93</code>
+      </categories>
+    </article>
+    <article date="2015/04/06" title="Sitecore xDB Cloud Edition: What you need to know" url="http://sitecoreart.martinrayenglish.com/2015/04/sitecore-xdb-cloud-edition-what-you.html">
+      <categories>
+        <code>100</code>
+      </categories>
+    </article>
+    <article date="2015/10/27" title="Goals" url="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns/goals__events/goals">
+      <categories>
+        <code>95</code>
+      </categories>
+    </article>
+    <article date="2016/05/23" title="Assign a profile card to an item in the Experience Editor" url="https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization/insession_personalization/assign_a_profile_card_to_an_item_in_the_experience_editor">
+      <categories>
+        <code>48</code>
+      </categories>
+    </article>
+    <article date="2015/10/12" title="Explore mode" url="https://doc.sitecore.net/sitecore_experience_platform/content_authoring/explore_mode/explore_mode">
+      <categories>
+        <code>104</code>
+      </categories>
+    </article>
+    <article date="2016/04/12" title="Validate an item" url="https://doc.sitecore.net/sitecore_experience_platform/content_authoring/creating_and_editing_items/creating/validate_an_item">
+      <categories>
+        <code>36</code>
+      </categories>
+    </article>
+    <article date="2015/09/16" title="Item Extension Methods" url="http://blog.martinmiles.net/post/sitecore-item-extension-methods">
+      <categories>
+        <code>19</code>
+      </categories>
+    </article>
+    <article date="1971/01/01" title="Sitecore8-Examples" url="https://github.com/Brad-Christie/Sitecore8-Examples">
+      <categories>
+        <code>123</code>
+      </categories>
+    </article>
+    <article date="1972/01/01" title="Extending Experience Analytics reports" url="http://sitecore-community.github.io/docs/xDB/reports/extending-experience-analytics-reports/">
+      <categories>
+        <code>98</code>
+      </categories>
+    </article>
+    <article date="1972/01/01" title="Implementing a Sitecore Data Provider" url="http://sitecore-community.github.io/docs/documentation/Sitecore Fundamentals/Data Providers/Implementing a Data Provider/">
+      <categories>
+        <code>37</code>
+      </categories>
+    </article>
+    <article date="2012/05/09" title="Auto-generating a Glass model with TDS and T4" url="http://herskind.co.uk/blog/sitecore/2012/05/auto-generating-glass-model-with-tds-t4/">
+      <categories>
+        <code>117</code>
+      </categories>
+    </article>
+    <article date="2015/08/05" title="Web API controller with async/await in Sitecore 8" url="http://www.agehrke.com/2015/08/web-api-controller-in-sitecore-8/">
+      <categories>
+        <code>26</code>
+      </categories>
+    </article>
+    <article date="2015/11/04" title="Some Sitecore Habitat Setup Issues" url="https://himadritechblog.wordpress.com/2015/11/04/some-sitecore-habitat-setup-issues/">
+      <categories>
+        <code>154</code>
+      </categories>
+    </article>
+    <article date="2014/01/09" title="Enable sticky sessions or SQL Server sessions state in load-balanced environments" url="https://www.cmsbestpractices.com/enable-sticky-sessions-sql-server-sessions-state-load-balanced-environments-2/">
+      <categories>
+        <code>52</code>
+      </categories>
+    </article>
+    <article date="2015/05/23" title="SIM - Sitecore Instance Manager" url="http://blog.martinmiles.net/post/sim-sitecore-instance-manager">
+      <categories>
+        <code>115</code>
+      </categories>
+    </article>
+    <article date="2015/10/28" title="Sitecore DMS Poll Module with Sitecore 7 issue" url="http://stackoverflow.com/questions/33381171/sitecore-dms-poll-module-with-sitecore-7-issue">
+      <categories>
+        <code>129</code>
+      </categories>
+    </article>
+    <article date="2015/10/16" title="Coveo Lost connection to RabbitMQ after rebuild" url="http://stackoverflow.com/questions/33168925/sitecore-coveo-lost-connection-to-rabbitmq-after-rebuild">
+      <categories>
+        <code>87</code>
+      </categories>
+    </article>
+    <article date="2015/10/09" title="$date not picking up current date" url="http://stackoverflow.com/questions/33031594/date-not-picking-up-current-date-sitecore">
+      <categories>
+        <code>79</code>
+      </categories>
+    </article>
+    <article date="2015/10/01" title="Sitecore 7 - Content editor error: String was not recognized as a valid DateTime" url="http://stackoverflow.com/questions/32886590/sitecore-7-content-editor-error-string-was-not-recognized-as-a-valid-datetime">
+      <categories>
+        <code>43</code>
+      </categories>
+    </article>
+    <article date="2014/12/04" title="Power user access to Recycle Bin" url="http://stackoverflow.com/questions/27298727/power-user-access-to-sitecore-recycle-bin">
+      <categories>
+        <code>18</code>
+      </categories>
+    </article>
+    <article date="2013/04/24" title="Map to Salesforce Campaigns field missing in S4S connector for sitecore" url="http://stackoverflow.com/questions/16196646/map-to-salesforce-campaigns-field-missing-in-s4s-connector-for-sitecore">
+      <categories>
+        <code>133</code>
+      </categories>
+    </article>
+    <article date="2015/06/27" title="Sitecore Mobile SDK for Xamarin" url="http://stackoverflow.com/questions/31086021/sitecore-mobile-sdk-for-xamarin">
+      <categories>
+        <code>124</code>
+      </categories>
+    </article>
+    <article date="2016/03/09" title="Sitecore Redis SessionState provider" url="http://blog.boro2g.co.uk/sitecore-redis-sessionstate-provider/">
+      <categories>
+        <code>51</code>
+      </categories>
+    </article>
+    <article date="2016/09/28" title="Introducing the Data Exchange Framework" url="http://blog.ryanbailey.co.nz/2016/09/introducing-data-exchange-framework-for.html">
+      <categories>
+        <code>156</code>
+      </categories>
+    </article>
+    <article date="2016/09/19" title="The new standard - Helix principals" url="http://blog.ryanbailey.co.nz/2016/09/the-new-sitecore-standard-helix.html">
+      <categories>
+        <code>155</code>
+      </categories>
+    </article>
+    <article date="2016/06/20" title="PXM InDesign is unable to load a project" url="http://blog.ryanbailey.co.nz/2016/06/sitecore-pxm-indesign-is-unable-to-load.html">
+      <categories>
+        <code>128</code>
+      </categories>
+    </article>
+    <article date="2016/09/02" title="Publishing Service – Setting up 8.2s new Publishing option" url="https://jonathanrobbins.co.uk/2016/09/02/setting-up-sitecore-publishing-service/">
+      <categories>
+        <code>29</code>
+      </categories>
+    </article>
+    <article date="2016/09/02" title="Precompiled Views with Sitecore 8.2" url="http://kamsar.net/index.php/2016/09/Precompiled-Views-with-Sitecore-8-2/">
+      <categories>
+        <code>151</code>
+      </categories>
+    </article>
+    <article date="2016/09/06" title="Bulletproofing your Sitecore Solr and SolrCloud Configurations" url="http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html">
+      <categories>
+        <code>85</code>
+      </categories>
+    </article>
+    <article date="2016/05/16" title="Where Should Sitecore Page Content Live?" url="http://sitecoreskills.blogspot.co.uk/2016/05/where-should-sitecore-page-content-live.html">
+      <categories>
+        <code>2</code>
+      </categories>
+    </article>
+    <article date="2016/06/08" title="Sitecore frontend with .NET Core" url="http://www.chrisvandesteeg.nl/2016/06/08/sitecore-frontend-with-net-core/">
+      <categories>
+        <code>157</code>
+      </categories>
+    </article>
+    <article date="2016/09/02" title="Using Sitecore Instance Manager" url="https://www.youtube.com/watch?v=bqYhjoW83RE">
+      <categories>
+        <code>200</code>
+      </categories>
+    </article>
+    <article date="2016/09/16" title="Friday Links 0.0.13 - Azure Search" url="http://www.mattburkedev.com/friday-links-0-dot-0-13-azure-search/">
+      <categories>
+        <code>69</code>
+      </categories>
+    </article>
+    <article date="2016/09/21" title="How to use Sitecore Express Migration Tool introduced in Sitecore 8.2?" url="http://stackoverflow.com/questions/39621769/how-to-use-sitecore-express-migration-tool-introduced-in-sitecore-8-2">
+      <categories>
+        <code>63</code>
+      </categories>
+    </article>
+    <article date="2016/08/23" title="How to set display name" url="http://stackoverflow.com/questions/39090959/sitecore-8-how-to-set-display-name">
+      <categories>
+        <code>1</code>
+      </categories>
+    </article>
+    <article date="2016/07/29" title="Sitecore.ListManagement.Analytics.UnlockContactListsAgent error in sitecore logs" url="http://stackoverflow.com/questions/38654799/sitecore-listmanagement-analytics-unlockcontactlistsagent-error-in-sitecore-logs">
+      <categories>
+        <code>102</code>
+      </categories>
+    </article>
+    <article date="2016/07/06" title="esting licenses" url="http://stackoverflow.com/questions/38220260/sitecore-testing-licenses">
+      <categories>
+        <code>197</code>
+      </categories>
+    </article>
+    <article date="2016/10/05" title="Partial Designs and Page Designs" url="http://reinoudvandalen.nl/blog/sitecore-experience-accelerator-partial-designs-and-page-designs/">
+      <categories>
+        <code>183</code>
+      </categories>
+    </article>
+    <article date="2016/10/09" title="Build a Location Finder search using SXA" url="https://michaellwest.blogspot.co.uk/2016/10/build-location-finder-search-using-sxa.html">
+      <categories>
+        <code>182</code>
+      </categories>
+    </article>
+    <article date="2016/10/10" title="Important benefits of the Sitecore Asset Optimizer" url="https://rcchopra.wordpress.com/2016/10/10/important-benefits-of-the-sitecore-asset-optimizer">
+      <categories>
+        <code>188</code>
+      </categories>
+    </article>
+    <article date="2016/11/02" title="Sitecore Docker Solr on windows container" url="https://blog.istern.dk/2016/11/02/sitecore-docker-solr-on-windows-container">
+      <categories>
+        <code>75</code>
+      </categories>
+    </article>
+    <article date="2015/05/08" title="Azure App Insights" url="https://andrewwburns.com/2015/05/08/azure-app-insights">
+      <categories>
+        <code>72</code>
+      </categories>
+    </article>
+    <article date="2014/12/29" title="Sitecore Courier is now available at Chocolatey Gallery" url="http://sitecoresnippets.blogspot.co.uk/2014/12/sitecore-courier-is-now-available-at.html">
+      <categories>
+        <code>58</code>
+      </categories>
+    </article>
+    <article date="2016/05/08" title="Effective use of Sitecore LinkDatabase" url="http://intothecore.cassidy.dk/2016/05/effective-use-of-sitecore-linkdatabase.html">
+      <categories>
+        <code>61</code>
+      </categories>
+    </article>
+    <article date="2016/11/19" title="Extending Sitecore Experience Accelerator (SXA) Toolbar" url="http://stackoverflow.com/questions/40692751/extending-sitecore-experience-accelerator-sxa-toolbar">
+      <categories>
+        <code>186</code>
+      </categories>
+    </article>
+    <article date="2016/10/13" title="Sitecore SXA Installation" url="http://stackoverflow.com/questions/40021799/sitecore-sxa-installation">
+      <categories>
+        <code>191</code>
+      </categories>
+    </article>
+    <article date="2016/11/17" title="How do I get my custom css class to show up in SXA?" url="http://sitecore.stackexchange.com/questions/2630/how-do-i-get-my-custom-css-class-to-show-up-in-sxa">
+      <categories>
+        <code>185</code>
+      </categories>
+    </article>
+    <article date="2016/11/10" title="Query Tokens in SXA" url="http://sitecore.stackexchange.com/questions/2456/query-tokens-in-sxa">
+      <categories>
+        <code>189</code>
+      </categories>
+    </article>
+    <article date="2016/10/24" title="Marketing definition deployment takes forever" url="http://sitecore.stackexchange.com/questions/1745/marketing-definition-deployment-takes-forever">
+      <categories>
+        <code>199</code>
+      </categories>
+    </article>
+    <article date="2016/11/14" title="Can't deploy marketing definitions, &quot;definition manager is in read only mode&quot;" url="http://sitecore.stackexchange.com/questions/2540/cant-deploy-marketing-definitions-definition-manager-is-in-read-only-mode">
+      <categories>
+        <code>166</code>
+      </categories>
+    </article>
+    <article date="2016/03/30" title="Using Device Detection" url="https://doc.sitecore.net/sitecore_experience_platform/developing/device_detection/using_device_detection">
+      <categories>
+        <code>38</code>
+      </categories>
+    </article>
+    <article date="2014/01/21" title="The Hidden Power Behind Sitecore User Personas" url="http://www.awareweb.com/awareblog/1-21-14-hiddenpower">
+      <categories>
+        <code>97</code>
+      </categories>
+    </article>
+    <article date="2017/10/18" title="Sitecore 9 is here" url="https://jammykam.wordpress.com/2017/10/17/sitecore-9-is-here/">
+      <categories>
+        <code>158</code>
+      </categories>
+    </article>
+    <article date="2017/10/31" title="xConnect Client API overview" url="https://doc.sitecore.net/developers/xp/xconnect/xconnect-client-api/xconnect-client-api-overview/">
+      <categories>
+        <code>159</code>
+      </categories>
+    </article>
+    <article date="2017/05/16" title="How to add support for Federated Authentication and claims to Sitecore using OWIN" url="http://blog.baslijten.com/how-to-add-federated-authentication-with-sitecore-and-owin/">
+      <categories>
+        <code>160</code>
+      </categories>
+    </article>
+    <article date="2017/05/16" title="Sitecore Installation Framework (SIF) and HTTPS Everywhere" url="http://www.rockpapersitecore.com/2017/10/sitecore-installation-framework-sif-and-https-everywhere/">
+      <categories>
+        <code>161</code>
+      </categories>
+    </article>
+    <article date="2017/10/16" title="Sitecore SPEAK 3.0 Initial Release" url="https://dev.sitecore.net/Downloads/Sitecore_SPEAK/3/Sitecore_SPEAK_3.aspx">
+      <categories>
+        <code>162</code>
+      </categories>
+    </article>
+    <article date="2017/10/15" title="Forms in Sitecore 9" url="http://www.rockpapersitecore.com/2017/10/forms-in-sitecore-9-wffm/">
+      <categories>
+        <code>163</code>
+      </categories>
+    </article>
+    <article date="2017/10/20" title="Introducing Sitecore JavaScript Services" url="https://jss.sitecore.ne">
+      <categories>
+        <code>145</code>
+      </categories>
+    </article>
+    <article date="2017/10/17" title="Sitecore 9: Dynamic Placeholders" url="https://jammykam.wordpress.com/2017/10/17/sitecore-9-dynamic-placeholders/">
+      <categories>
+        <code>164</code>
+      </categories>
+    </article>
+    <article date="2017/10/17" title="Sitecore 9 : Config Patches – Layers &amp; Roles" url="https://jammykam.wordpress.com/2017/10/17/rules-based-configuration/">
+      <categories>
+        <code>165</code>
+      </categories>
+    </article>
+    <article date="2017/10/23" title="Experience Management - an overview" url="https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/experience_management/experience_management_an_overview">
+      <categories>
+        <code>148</code>
+      </categories>
+    </article>
+    <article date="2017/09/11" title="How your SXA site gets resolved?" url="https://pratiksatikunvar.wordpress.com/2017/09/11/how-your-sxa-site-gets-resolved">
+      <categories>
+        <code>187</code>
+      </categories>
+    </article>
+    <article date="2017/02/22" title="Sitecore Cognitive Services" url="https://www.markstiles.net/blog/2017/2/22/sitecore-cognitive-services/">
+      <categories>
+        <code>136</code>
+      </categories>
+    </article>
+    <article date="2017/08/25" title="Local &quot;Data&quot; datasource folder not displayed in the Content Editor for content editors" url="https://sitecore.stackexchange.com/questions/7222/sxas-local-data-datasource-folder-not-displayed-in-the-content-editor-for-con">
+      <categories>
+        <code>184</code>
+      </categories>
+    </article>
+    <article date="2017/08/10" title="Injecting Google Tag Manager from content" url="https://sitecore.stackexchange.com/questions/7063/injecting-google-tag-manager-from-content-using-sxa">
+      <categories>
+        <code>194</code>
+      </categories>
+    </article>
+    <article date="2017/07/06" title="Personalization not working with Carousel" url="https://sitecore.stackexchange.com/questions/6485/sxa-personalization-not-working-with-carousel">
+      <categories>
+        <code>190</code>
+      </categories>
+    </article>
+    <article date="2017/04/12" title="Error Rebuilding Link database" url="https://sitecore.stackexchange.com/questions/5345/error-rebuilding-link-database">
+      <categories>
+        <code>192</code>
+      </categories>
+    </article>
+    <article date="2018/07/19" title="CryptographicException Keyset does not exist" url="https://blog.ryanbailey.co.nz/2018/07/sitecore-identity-server.html">
+      <categories>
+        <code>169</code>
+      </categories>
+    </article>
+    <article date="2018/10/15" title="Welcome to Sitecore 9.1" url="https://blog.boro2g.co.uk/sitecore-symposium-2018-welcome-to-sitecore-9-1/">
+      <categories>
+        <code>167</code>
+        <code>170</code>
+        <code>171</code>
+      </categories>
+    </article>
+    <article date="2018/06/13" title="The Update Center" url="https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/security_and_administration/the_update_center">
+      <categories>
+        <code>64</code>
+      </categories>
+    </article>
+    <article date="2014/05/29" title="Deploying Sitecore on Amazon Web Services (AWS)" url="http://www.xcentium.com/blog/2014/05/29/deploying-sitecore-on-amazon-web-services-aws">
+      <categories>
+        <code>76</code>
+      </categories>
+    </article>
+    <article date="2018/09/24" title="Playing with Sitecore.HabitatHome.Utilities on your machine" url="https://buoctrenmay.com/2018/09/24/playing-with-sitecore-habitathome-utilities-on-your-machine">
+      <categories>
+        <code>130</code>
+      </categories>
+    </article>
+    <article date="2018/05/17" title="Use a custom SXA login page" url="https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring/setting_up/use_a_custom_sxa_login_page">
+      <categories>
+        <code>193</code>
+      </categories>
+    </article>
+    <article date="2019/10/23" title="Problem with Sitecore GraphQL on Azure" url="http://www.sitecorelessons.com/2019/10/problem-with-sitecore-graphql-on-azure.html">
+      <categories>
+        <code>146</code>
+      </categories>
+    </article>
+    <article date="2019/06/12" title="Enhancing Treelist and Miltilist fields with a lookup feature for productivity. Two approaches" url="http://blog.martinmiles.net/post/enhancing-treelist-with-a-lookup-feature-for-productivity-two-approaches-same-goal-browser-user-script-and-serverside">
+      <categories>
+        <code>125</code>
+      </categories>
+    </article>
+    <article date="2019/11/05" title="What's new in Sitecore 9.3?" url="http://blog.martinmiles.net/post/sitecore-93">
+      <categories>
+        <code>175</code>
+      </categories>
+    </article>
+    <article date="2019/10/25" title="Sitecore 9.2 Dev Environment setup" url="https://sitecorecommerce.wordpress.com/2019/10/25/sitecore-9-2-dev-environment-setup/">
+      <categories>
+        <code>172</code>
+      </categories>
+    </article>
+    <article date="2019/09/17" title="Uninstall after using Sitecore Install Assistant" url="https://thecodeattic.wordpress.com/2019/09/17/uninstall-after-using-sitecore-install-assistant/">
+      <categories>
+        <code>173</code>
+      </categories>
+    </article>
+    <article date="2019/09/29" title="Sitecore Content Hub – More than just a DAM" url="https://www.kayee.nl/2019/09/29/sitecore-content-hub-more-than-just-a-dam/">
+      <categories>
+        <code>174</code>
+      </categories>
+    </article>
+    <article date="2019/06/27" title="Cortex Demo Code in 12 minutes" url="http://sitecore.stockpick.nl/english/sitecore-cortex-demo-code-in-12-minutes/">
+      <categories>
+        <code>168</code>
+      </categories>
+    </article>
+    <article date="2019/10/01" title="SSL/TLS error while rebuilding xDB index" url="https://sitecoresysadmin.wordpress.com/2019/10/01/ssl-tls-error-while-rebuilding-xdb-index/">
+      <categories>
+        <code>86</code>
+      </categories>
+    </article>
+    <article date="2019/12/02" title="Sitecore 9.3 Horizon – Installation and Issues" url="https://codeandlearnspot.wordpress.com/2019/12/02/sitecore-9-3-horizon-installation-and-issues">
+      <categories>
+        <code>180</code>
+      </categories>
+    </article>
+    <article date="2019/11/06" title="Custom SXA Scriban extensions" url="https://ggullentops.blogspot.co.uk/2019/11/custom-sxa-scriban-extensions.html">
+      <categories>
+        <code>195</code>
+      </categories>
+    </article>
+    <article date="2019/11/02" title="How to run Azure DevOps hosted (Linux) build agents as private agents (and be able to scale them accordingly)" url="https://blog.baslijten.com/how-to-run-azure-devops-hosted-linux-build-agents-as-private-agents-and-be-able-to-scale-them-accordingly/">
+      <categories>
+        <code>68</code>
+      </categories>
+    </article>
+    <article date="2019/09/01" title="Securing xDB data with Azure Key Vault and SQL Always Encrypted (part 1)" url="https://andypaz.com/2019/09/01/securing-xdb-data-with-azure-key-vault-and-sql-always-encrypted-part-1">
+      <categories>
+        <code>71</code>
+      </categories>
+    </article>
+    <article date="2020/08/04" title="Sitecore 10 New Features" url="https://tothecore.sk/2020/08/04/sitecore-10-new-features/">
+      <categories>
+        <code>176</code>
+      </categories>
+    </article>
+    <article date="2020/07/05" title="Sitecore MediaIndexing Folder" url="http://techitpro.com/sitecore/sitecore-mediaindexing-folder/">
+      <categories>
+        <code>54</code>
+      </categories>
+    </article>
+    <article date="2020/08/06" title="Sitecore 10 Content Serialization. Do we still need Unicorn?" url="https://www.pintle.dk/insights/sitecore-10-sitecore-content-serialization/">
+      <categories>
+        <code>179</code>
+      </categories>
+    </article>
+    <article date="2020/08/04" title="Sitecore 10 Docker Containers: Cannot start service solr" url="https://www.sitecoregabe.com/2020/08/sitecore-10-docker-containers-cannot-start-solr.html.html">
+      <categories>
+        <code>177</code>
+      </categories>
+    </article>
+    <article date="2020/08/19" title="Right to be forgotten" url="https://doc.sitecore.com/developers/93/platform-administration-and-architecture/en/right-to-be-forgotten.html">
+      <categories>
+        <code>181</code>
+      </categories>
+    </article>
+    <article date="2020/08/10" title="Make your Sitecore 10 Asp.Net Core web app multilingual" url="https://visionsincode.com/2020/08/10/make-your-sitecore-10-asp-net-core-web-app-multilingual/">
+      <categories>
+        <code>178</code>
+      </categories>
+    </article>
+       <article date="2019/08/09" title="Dockers Dockers Dockers with Sitecore for developers" url="https://visionsincode.com/2019/08/09/dockers-dockers-dockers-with-sitecore-for-developers">
+      <categories>
+        <code>75</code>
+      </categories>
+    </article>
+    <article date="2019/01/10" title="Sitecore Forms and GraphQL in harmony - building custom control (Part 1)" url="https://visionsincode.com/2019/01/10/sitecore-forms-and-graphql-in-harmony-building-custom-control-part-1">
+      <categories>
+        <code>163</code>
+        <code>146</code>
+      </categories>
+    </article>
+    <article date="2019/01/14" title="Sitecore Forms and GraphQL in harmony - GraphQL in all its glory (Part 2)" url="https://visionsincode.com/2019/01/14/sitecore-forms-and-graphql-in-harmony-graphql-in-all-its-glory-part-2">
+      <categories>
+        <code>163</code>
+        <code>146</code>
+      </categories>
+    </article>
+    <article date="2018/10/07" title="Adding Rich Text to your dictionary in Sitecore" url="https://visionsincode.com/2018/10/07/adding-rich-text-to-your-dictionary-in-sitecore">
+      <categories>
+        <code>35</code>
+      </categories>
+    </article>
+    <article date="2018/04/07" title="Where did my custom facets go in Sitecore?" url="https://visionsincode.com/2018/04/07/where-did-my-custom-facets-go-in-sitecore">
+      <categories>
+        <code>89</code>
+      </categories>
+    </article>
+    <article date="2018/11/18" title="Create custom controls in Sitecore Forms without customization" url="https://visionsincode.com/2018/11/18/create-custom-controls-in-sitecore-forms-without-customization">
+      <categories>
+        <code>163</code>
+      </categories>
+    </article>
+    <article date="2018/12/09" title="Add hidden data to Sitecore Forms without hidden fields" url="https://visionsincode.com/2018/12/09/add-hidden-data-to-sitecore-forms-without-hidden-fields">
+      <categories>
+        <code>163</code>
+      </categories>
+    </article>
+    <article date="2016/04/13" title="Build an App with Xamarin.Forms using Sitecore Mobile SDK for Xamarin - Getting started" url="https://visionsincode.com/2016/04/13/build-an-app-with-xamarin-forms-using-sitecore-mobile-sdk-for-xamarin-getting-started">
+      <categories>
+        <code>124</code>
+      </categories>
+    </article>
+    <article date="2016/05/07" title="Build an App with Xamarin.Forms using Sitecore Mobile SDK for Xamarin - Website and Navigation : Part 2" url="https://visionsincode.com/2016/05/07/build-an-app-with-xamarin-forms-using-sitecore-mobile-sdk-for-xamarin-website-and-navigation-part-2">
+      <categories>
+        <code>124</code>
+      </categories>
+    </article>
+    <article date="2016/06/22" title="Build an App with Xamarin.Forms using Sitecore Mobile SDK for Xamarin - Putting it all together" url="https://visionsincode.com/2016/06/22/build-an-app-with-xamarin-forms-using-sitecore-mobile-sdk-for-xamarin-putting-it-all-together">
+      <categories>
+        <code>124</code>
+      </categories>
+    </article>
+    <article date="2017/08/31" title="Continuous integration and deployment of Sitecore Habitat/Helix as an Azure Web App" url="https://visionsincode.com/2017/08/31/continuous-integration-and-deployment-of-sitecore-habitathelix-as-an-azure-web-app">
+      <categories>
+        <code>59</code>
+        <code>68</code>
+      </categories>
+    </article>
+    <article date="2017/03/02" title="Create your own TimePicker(macro) personalization rule in Sitecore" url="https://visionsincode.com/2017/03/02/create-your-own-timepickermacro-personalization-rule-in-sitecore">
+      <categories>
+        <code>31</code>
+      </categories>
+    </article>
+    <article date="2017/02/25" title="Compare dates in your Sitecore personalization rule" url="https://visionsincode.com/2017/02/25/compare-dates-in-your-sitecore-personalization-rule">
+      <categories>
+        <code>31</code>
+      </categories>
+    </article>
+    <article date="2016/11/30" title="Extend your Sitecore “Multilist Search Control” with a SPEAK treeview" url="https://visionsincode.com/2016/11/30/extend-your-sitecore-multilist-search-control-with-a-speak-treeview">
+      <categories>
+        <code>7</code>
+      </categories>
+    </article>
+    <article date="2014/11/16" title="Tagging is fun in Sitecore" url="https://visionsincode.com/2014/11/16/tagging-is-fun-in-sitecore">
+      <categories>
+        <code>90</code>
+      </categories>
+    </article>
+    <article date="2015/04/19" title="More fun with tagging in Sitecore 8 - Grouping Tags and Tagging tags" url="https://visionsincode.com/2015/04/19/more-fun-with-tagging-in-sitecore-8-grouping-tags-and-tagging-tags">
+      <categories>
+        <code>90</code>
+      </categories>
+    </article>
+    <article date="2017/11/26" title="Why some fields in commerce user profile are never set - Sitecore Commerce" url="https://visionsincode.com/2017/11/26/why-some-fields-in-commerce-user-profile-are-never-set-sitecore-commerce">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2017/11/21" title="Failed to retrieve profile - Sitecore Commerce Server" url="https://visionsincode.com/2017/11/21/failed-to-retrieve-profile-sitecore-commerce-server">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/05/28" title="Pipeline your pop-ups/modal-windows in Sitecore" url="https://visionsincode.com/2019/05/28/pipeline-your-pop-ups-modal-windows-in-sitecore">
+      <categories>
+        <code>39</code>
+      </categories>
+    </article>
+    <article date="2018/03/01" title="JWT(JSON Web Tokens) as your authenticator in Sitecore" url="https://visionsincode.com/2018/03/01/jwtjson-web-tokens-as-your-authenticator-in-sitecore">
+      <categories>
+        <code>137</code>
+      </categories>
+    </article>
+    <article date="2016/10/11" title="How to trigger an OK click on a Sitecore SPEAK ConfirmationDialog" url="https://visionsincode.com/2016/10/11/how-to-trigger-an-ok-click-on-a-sitecore-speak-confirmationdialog">
+      <categories>
+        <code>152</code>
+      </categories>
+    </article>
+    <article date="2016/10/01" title="Authorize your Web API controllers in Sitecore style" url="https://visionsincode.com/2016/10/01/authorize-your-web-api-controllers-in-sitecore-style">
+      <categories>
+        <code>26</code>
+      </categories>
+    </article>
+    <article date="2020/08/18" title="Sitecore 9.3: Azure AD: Use the identity server URL" url="http://sitecorenj.blogspot.com/2020/08/sitecore-93-azure-ad-use-identity.html">
+      <categories>
+        <code>71</code>
+        <code>169</code>
+      </categories>
+    </article>
+    <article date="2020/08/05" title="Sitecore 10 benefits for Content Strategists and Digital Marketers" url="https://jasonstcyr.com/2020/08/05/sitecore-10-marketer-benefits/">
+      <categories>
+        <code>176</code>
+      </categories>
+    </article>
+    <article date="2019/03/05" title="Sitecore Support introduces Sitecore Support Box Storage" url="https://xtremdev.com/2019/03/05/sitecore-support-introduces-sitecore-support-box-storage">
+      <categories>
+        <code>65</code>
+      </categories>
+    </article>
+    <article date="2020/02/29" title="How to delete a massive number of categories / sellable items?" url="https://hachweb.wordpress.com/2020/02/29/sitecore-xc-how-to-delete-a-massive-number-of-categories-sellable-items">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2020/02/29" title="Deleting sellable items programmatically might lead to SQL deadlock exceptions" url="https://hachweb.wordpress.com/2020/02/29/sitecore-xc-deleting-sellable-items-programmatically-might-lead-to-sql-deadlock-exceptions">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2020/03/18" title="Custom plugin to let content authors change settings in BizFx tools on runtime" url="https://hachweb.wordpress.com/2020/03/18/accelerate-the-power-of-sitecore-xc-policies-custom-plugin-to-let-content-authors-change-settings-in-bizfx-tools-on-runtime">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2020/07/17" title="Experiences from customers diving into advanced marketing features for the very first time" url="https://hachweb.wordpress.com/2020/07/17/unleash-the-power-of-sitecore-experiences-from-customers-diving-into-advanced-marketing-features-for-the-very-first-time">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/07/17" title="Edit decimal values in Business Tools might lead to inconsistent values in non-English environments" url="https://hachweb.wordpress.com/2019/07/17/sitecore-xc-9-1-edit-decimal-values-in-business-tools-might-lead-to-inconsistent-values-in-non-english-environments">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2020/01/18" title="Sitecore XC - Everything you have to know to work with media items" url="https://hachweb.wordpress.com/2020/01/18/sitecore-xc-everything-you-have-to-know-to-work-with-media-items">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/05/29" title="Extend Sitecore XC Business Tools - The real meaning of data driven UI" url="https://hachweb.wordpress.com/2019/05/29/extend-sitecore-xc-business-tools-the-real-meaning-of-data-driven-ui">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/02/18" title="An introduction to Entitlements" url="https://hachweb.wordpress.com/2019/02/18/sitecore-xc-9-0-3-an-introduction-to-entitlements">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/03/21" title="Architectural thoughts on how to grab / pass and persist entities" url="https://hachweb.wordpress.com/2019/03/21/sitecore-xc-9-0-3-architectural-thoughts-on-how-to-grab-pass-and-persist-entities">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/03/27" title="Extension of NodeConfiguration log to detect recursive Calls from additional Pipelines and Command" url="https://hachweb.wordpress.com/2019/03/27/sitecore-xc-9-0-3-extension-of-nodeconfiguration-log-to-detect-recursive-calls-from-additional-pipelines-and-command">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/05/08" title="Bring your Sitecore XC deployments from the Stone Age to the future - How to deploy server specific environments fully automated" url="https://hachweb.wordpress.com/2019/05/08/bring-your-sitecore-xc-deployments-from-the-stone-age-to-the-future-how-to-create-server-specific-environments-fully-automated">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2019/01/13" title="Some useful best practices" url="https://hachweb.wordpress.com/2019/01/13/practical-experiences-with-sitecore-xc-some-useful-best-practices">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/11/30" title="Full example of how to sync composer generated templates between environments" url="https://hachweb.wordpress.com/2018/11/30/sitecore-xc-9-0-2-full-example-of-how-to-sync-composer-generated-templates-between-environments">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/11/01" title="Create your custom order IDs" url="https://hachweb.wordpress.com/2018/11/01/sitecore-xc-9-0-2-create-your-custom-order-ids">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/10/21" title="Sitecore Commerce Connect - Connecting Sitecore XP and XC" url="https://hachweb.wordpress.com/2018/10/21/sitecore-commerce-connect-combining-sitecore-xp-and-xc">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/09/18" title="How to avoid misbehavior when using CreateCategoryCommand" url="https://hachweb.wordpress.com/2018/09/18/sitecore-xc-9-0-2-how-to-avoid-misbehavior-when-using-createcategorycommand">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/07/13" title="What has been changed?" url="https://hachweb.wordpress.com/2018/07/13/sitecore-xc-9-0-2-what-has-been-changed">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/07/15" title="Walkthrough of extending product definitions with custom fields" url="https://hachweb.wordpress.com/2018/07/15/sitecore-xc-9-0-2-walk-through-extending-product-definitions-with-custom-fields">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/07/16" title="Walkthrough of versioning, workflows and publishment of commerce content" url="https://hachweb.wordpress.com/2018/07/16/sitecore-xc-9-0-2-walkthrough-of-versioning-workflows-and-publishment-of-commerce-content">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/08/01" title="How to retrieve Composer generated Templates within Sitecore Engine" url="https://hachweb.wordpress.com/2018/08/01/sitecore-xc-9-0-2-how-to-retrieve-composer-generated-templates-within-sitecore-engine">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/08/04" title="No possibility to set a commerce environment within Sitecore XP" url="https://hachweb.wordpress.com/2018/08/04/sitecore-xc-9-0-2-no-possibility-to-set-a-commerce-environment-within-sitecore-xp">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/08/06" title="Commerce Policies, Environments and Roles behind the scenes" url="https://hachweb.wordpress.com/2018/08/06/sitecore-xc-9-0-2-commerce-environments-behind-the-scenes">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/08/17" title="Walkthrough of extending the standard tax plugin to fulfill multiple tax rates" url="https://hachweb.wordpress.com/2018/08/17/sitecore-xc-9-0-2-walkthrough-of-extending-the-standard-tax-plugin-to-fulfill-multiple-tax-rates">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/09/09" title="Walkthrough of creating your own product importer with various pitfalls" url="https://hachweb.wordpress.com/2018/09/09/sitecore-xc-9-0-2-walkthrough-of-creating-your-own-product-importer-with-various-pitfalls">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/09/16" title="Workaround of editing Composer generated properties from code, when not set before within Business Tools" url="https://hachweb.wordpress.com/2018/09/16/sitecore-xc-9-0-2-workaround-of-editing-composer-generated-properties-from-code-when-not-set-before-within-business-tools">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/09/17" title="Workaround of getting all parent entities for a given category" url="https://hachweb.wordpress.com/2018/09/17/sitecore-xc-9-0-2-workaround-of-getting-all-parent-entities-for-a-given-category">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/05/24" title="How to create a Commerce User" url="https://hachweb.wordpress.com/2018/05/24/sitecore-xc-how-to-create-a-commerce-user">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/05/23" title="How to delete Commerce Items in Sitecore?" url="https://hachweb.wordpress.com/2018/05/23/sitecore-xc-how-to-delete-commerce-items-in-sitecore">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/05/22" title="How to properly publish Commerce Items?" url="https://hachweb.wordpress.com/2018/05/22/sitecore-xc-how-to-properly-publish-commerce-items">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/05/22" title="Proper update of xconnect?!" url="https://hachweb.wordpress.com/2018/05/22/sitecore-xc-proper-update-of-xconnect">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/05/16" title="Pitfalls while Installation with SIF - Part 1" url="https://hachweb.wordpress.com/2018/05/16/sitecore-xc-pitfalls-while-installation-with-sif">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2018/05/17" title="Pitfalls while Installation with SIF - Part 2" url="https://hachweb.wordpress.com/2018/05/17/sitecore-xc-pitfalls-while-installation-with-sif-part-2">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2020/01/29" title="Case study: polluted reports" url="https://making-it-faster.blog/2020/01/29/case-study-polluted-reports">
+      <categories>
+        <code>98</code>
+      </categories>
+    </article>
+    <article date="2020/04/25" title="Performance crime: Params" url="https://making-it-faster.blog/2020/04/25/performance-crime-params">
+      <categories>
+        <code>49</code>
+      </categories>
+    </article>
+    <article date="2020/01/10" title="Unit testing in Sitecore" url="https://making-it-faster.blog/2020/01/10/unit-testing">
+      <categories>
+        <code>111</code>
+      </categories>
+    </article>
+    <article date="2020/01/01" title="Case study: database optimization" url="https://making-it-faster.blog/2020/01/01/case-study-database-optimization">
+      <categories>
+        <code>74</code>
+      </categories>
+    </article>
+    <article date="2015/09/02" title="Sitecore deployments - Part 1 the project Setup" url="http://daveblog.azurewebsites.net/sitecore-deployments-part-1/">
+      <categories>
+        <code>59</code>
+      </categories>
+    </article>
+    <article date="2015/09/04" title="Sitecore deployments - Part 2 Team City" url="http://daveblog.azurewebsites.net/sitecore-deployments-part-2-team-city/">
+      <categories>
+        <code>59</code>
+      </categories>
+    </article>
+    <article date="2018/02/11" title="SIFLess Uninstall with Sitecore Experience Commerce 9" url="https://bgolden.io/2018/02/11/sifless-uninstall-with-sitecore-experience-commerce-9">
+      <categories>
+        <code>135</code>
+      </categories>
+    </article>
+    <article date="2020/08/21" title="What is Sitecore Managed Cloud?" url="http://www.pieterbrinkman.com/2020/08/21/what-is-sitecore-managed-cloud">
+      <categories>
+        <code>100</code>
+      </categories>
+    </article>
+    <article date="2019/11/06" title="Sitecore Publish Reporting Kit 2 Released" url="http://www.sitecorespark.com/blog/2019/11/sitecore-publish-reporting-kit-2-released">
+      <categories>
+        <code>27</code>
+      </categories>
+    </article>
+    <article date="2019/10/14" title="What Safari and iPadOS Mean For Device Detection in Sitecore" url="http://www.sitecorespark.com/blog/2019/10/what-safari-and-ipados-means-for-device-detection-in-sitecore">
+      <categories>
+        <code>38</code>
+      </categories>
+    </article>
+    <article date="2019/07/31" title="Implementation Differences Between Sitecore CustomCache and Generics CustomCache" url="http://www.sitecorespark.com/blog/2019/7/implementation-differences-between-sitecore-customcache-and-generics-customcache">
+      <categories>
+        <code>50</code>
+      </categories>
+    </article>
+    <article date="2018/03/22" title="Using Sitecore PowerShell Scripts For Datasources" url="http://www.sitecorespark.com/blog/2018/3/using-sitecore-powershell-scripts-for-datasources">
+      <categories>
+        <code>126</code>
+      </categories>
+    </article>
+    <article date="2018/08/27" title="Why Sitecore Cache Sizes Are Listed in KB, MB, GB In Configuration" url="http://www.sitecorespark.com/blog/2018/8/why-sitecore-cache-sizes-are-listed-in-kb-mb-gb-in-configuration">
+      <categories>
+        <code>50</code>
+      </categories>
+    </article>
+    <article date="2019/02/11" title="The Sitecore API vs Glass.Mapper vs Synthesis" url="http://www.sitecorespark.com/blog/2019/2/the-sitecore-api-vs-glassmapper-vs-synthesis">
+      <categories>
+        <code>119</code>
+      </categories>
+    </article>
+    <article date="2018/01/23" title="Understanding Sitecore User Licensing and the Kick User Tool" url="http://www.sitecorespark.com/blog/2018/1/understanding-sitecore-user-licensing-kick-tool">
+      <categories>
+        <code>197</code>
+      </categories>
+    </article>
+    <article date="2017/09/11" title="Optimize the Rich Text Editor in Sitecore" url="http://himynameistim.com/blog/ https://himynameistim.com/2017/09/11/optimize-the-rich-text-editor-in-sitecore/">
+      <categories>
+        <code>44</code>
+      </categories>
+    </article>
+    <article date="2017/08/29" title="Sitecore Rendering Datasource Restrictions" url="http://himynameistim.com/blog/ https://himynameistim.com/2017/08/29/sitecore-rendering-datasource-restrictions/">
+      <categories>
+        <code>16</code>
+      </categories>
+    </article>
+    <article date="2017/08/23" title="Using template source restrictions in Sitecore" url="http://himynameistim.com/blog/ https://himynameistim.com/2017/08/23/using-template-source-restrictions-in-sitecore/">
+      <categories>
+        <code>8</code>
+      </categories>
+    </article>
+    <article date="2017/10/02" title="Tracking downloads in Sitecore Experience Analytics" url="http://himynameistim.com/blog/ https://himynameistim.com/2017/10/02/tracking-downloads-in-sitecore-experience-analytics/">
+      <categories>
+        <code>95</code>
+      </categories>
+    </article>
+    <article date="2019/03/18" title="Speak Friend and Enter - The Journey Through Mordor to create your first Speak 3 Application" url="http://sitecoreguild.blogspot.co.uk/2019/03/speak-friend-and-enter-journey-through.html">
+      <categories>
+        <code>162</code>
+      </categories>
+    </article>
+    <article date="2017/11/05" title="Installing Sitecore 9 on Mircosoft Azure Cloud as PaaS : Know your options" url="https://naveed-ahmad.com/2017/11/05/installing-sitecore-9-on-mircosoft-azure-cloud-as-paas-know-your-options">
+      <categories>
+        <code>70</code>
+      </categories>
+    </article>
+    <article date="2020/05/15" title="Using Bucket Search to find empty field values" url="http://www.dansolovay.com/2020/05/using-bucket-search-to-find-empty-field.html">
+      <categories>
+        <code>88</code>
+      </categories>
+    </article>
+  </articles>
+</root>

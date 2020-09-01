@@ -1,0 +1,48 @@
+id: search-page
+
+fields:
+  pageTitle: Sitecore.Link
+
+placeholders:
+  jss-header:
+    - componentName: Header
+      fields:
+        logoImage: {
+          value: {
+            src: /data/media/img/logo.png,
+            alt: Sitecore.Link
+          }
+        }
+        titleImage: {
+          value: {
+            src: /data/media/img/sitecoreLink.png,
+            alt: Sitecore.Link
+          }
+        }
+  jss-main:
+    - componentName: RowSplitter
+      placeholders:
+        row-1-1:
+          - componentName: Info
+            fields:
+              content: |
+                <div style="font-size: small;">Sitecore.Link keeps on serving the Sitecore community with the most complete collection of references <span style="text-decoration: underline;">ever to exist</span>, verified and tagged for your convenience. Are you running a blog or know any good articles that should be a part of this reference? Any thoughts to share? Please <a href="mailto: sitecore.professional@gmail.com">email us</a>!<br /><br />Alternative version of this site is available at <strong><a href="https://old.sitecore.link" target="_blank" rel="noopener noreferrer">old.sitecore.link</a></strong></div>
+        row-2-1:
+          - componentName: ColumnSplitter
+            placeholders:
+              column-1-1:
+                - componentName: LinkSearch
+                  fields:
+                    heading: 
+                    placeholderText: Search for links
+                    helperText: minimum 3 characters, press ENTER to search
+                    buttonText: SEARCH
+              column-2-1:
+                - componentName: SearchFilter
+                  fields:
+                    filterName: Category
+                - componentName: SearchResults
+  jss-footer:
+    - componentName: Footer
+      fields:
+        content: Copyright ©2020 Sitecore.Link

@@ -1,0 +1,93 @@
+id: about-page
+
+fields:
+  pageTitle: Sitecore.Link
+
+placeholders:
+  jss-header:
+    - componentName: Header
+      fields:
+        logoImage: {
+          value: {
+            src: /data/media/img/logo.png,
+            alt: Sitecore.Link
+          }
+        }
+        titleImage: {
+          value: {
+            src: /data/media/img/sitecoreLink.png,
+            alt: Sitecore.Link
+          }
+        }
+  jss-main:
+    - componentName: RowSplitter
+      placeholders:
+        row-1-1:
+          - componentName: Info
+            fields:
+              content: |
+                <div style="font-size: small;">
+                  Sitecore.Link keeps on serving the Sitecore community with the most complete collection of references <span style="text-decoration: underline;">ever to exist</span>, verified and tagged for your convenience. Are you running a blog or know any good articles that should be a part of this reference? Any thoughts to share? Please <a href="mailto: sitecore.professional@gmail.com">email us</a>!
+                  <br /><br />
+                  Alternative version of this site is available at <strong><a href="https://old.sitecore.link" target="_blank" rel="noopener noreferrer">old.sitecore.link</a></strong>
+                </div>
+        row-2-1:
+          - componentName: Info
+            fields:
+              content: |
+                Sitecore Link project started in 2015 with a set goal of accumulating and aggregating the whole knowledge about Sitecore platform produced by the community. We carefully monitor, review and classify thousands of blog posts, videos, stack exchange answered questions and of course the official Sitecore documentation.
+                <br/><br/>
+                This brand new website operates on the same great knowledge base. Sitecore Link is powered by Sitecore JSS now, using the same technology it is spreading the knowledge about.
+          - componentName: ColumnSplitter
+            placeholders:
+              column-1-1:
+                - componentName: Author
+                  fields:
+                    name: Martin Miles
+                    description: |
+                      Martin Miles is a Sitecore Expert and .NET technical architect involved in the production of enterprise web and mobile applications. Since 2010 I am working exclusively with Sitecore as a digital platform. With excellent knowledge of Experience Platform and Experience Commerce, I took part in more than 20 successful implementations, producing user-friendly and maintainable systems for my clients.
+                    image: {
+                      value: {
+                        src: /data/media/img/martin.png,
+							          alt: Martin Miles
+                      }
+                    }
+                    linkedInUrl: { 
+                      href: https://uk.linkedin.com/in/martin-miles,
+                      target: _blank
+                    }
+                    twitterUrl: { 
+                      href: https://twitter.com/SitecoreMartin,
+                      target: _blank
+                    }
+                    blogUrl: { 
+                      href: http://blog.martinmiles.net,
+                      target: _blank
+                    }
+              column-2-1:
+                - componentName: Author
+                  fields:
+                    name: Maciej Gontarz
+                    description: Maciej Gontarz is an Independent Sitecore Consultant from London, UK.
+                    image: {
+                      value: {
+                        src: /data/media/img/maciej.png,
+							          alt: Maciej Gontarz
+                      }
+                    }
+                    linkedInUrl: { 
+                      href: https://uk.linkedin.com/in/maciejgontarz,
+                      target: _blank
+                    }
+                    twitterUrl: { 
+                      href: ,
+                      target:
+                    }
+                    blogUrl: { 
+                      href: http://blog.binboy.net,
+                      target: _blank
+                    }
+  jss-footer:
+    - componentName: Footer
+      fields:
+        content: Copyright ©2020 Sitecore.Link

@@ -1,0 +1,28 @@
+query categoryLinksQuery($categoryId: String!) {
+  searchResults: item(path: $categoryId) {
+    id
+    name
+    ... on Category {
+      links {
+        ...Links
+      }
+    }
+  }
+}
+
+fragment Links on MultilistField {
+  targetItems {
+    ... on PostLink {
+      id
+      title {
+        value
+      }
+      linkUrl {
+        jss
+      }
+      date {
+        value
+      }
+    }
+  }
+}

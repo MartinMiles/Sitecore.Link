@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <tops>
+    <category id="1" code="fundamentals">Sitecore Fundamentals</category>
+    <category id="2" code="essentials">Sitecore Essentials</category>
+    <category id="3" code="advanced">Sitecore Advanced</category>
+    <category id="4" code="editors">Editors</category>
+    <category id="5" code="performance">Performance and Cache</category>
+    <category id="6" code="maintenance">Maintenance</category>
+    <category id="7" code="infrastructure">Infrastructure and Cloud</category>
+    <category id="8" code="configuration">Configuration</category>
+    <category id="9" code="search">Search</category>
+    <category id="10" code="analytics">Analytics, DMS and xDB</category>
+    <category id="11" code="sitecore10">Sitecore 10</category>
+    <category id="12" code="sitecore9">Sitecore versions 9.*</category>
+    <category id="13" code="recent">JavaScript Services</category>
+    <category id="14" code="security">Security</category>
+    <category id="15" code="seo">SEO, sitemaps and error pages</category>
+    <category id="16" code="emailing">Emailing</category>
+    <category id="17" code="developers">Developers</category>
+    <category id="18" code="module">Popular modules</category>
+    <category id="19" code="external">External and CRMs</category>
+    <category id="20" code="recent">Other recent features</category>
+    <category id="21" code="sxa">Sitecore Experience Accelerator (SXA)</category>
+    <category id="22" code="other">Other and non-classified</category>
+  </tops>
+</root>

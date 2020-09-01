@@ -1,0 +1,52 @@
+query CategoriesQuery($datasource: String!, $contextItem: String!) {
+  datasource(value: $datasource) {
+    id
+    name
+    path
+    ... on Categories {
+      heading {
+        value
+      }
+    }
+  }
+
+  contextItem: item(path: $contextItem) {
+    id
+    ... on AppRoute {
+      pageTitle {
+        value
+      }
+    }
+  }
+
+  searchResults: item(path: "/sitecore/content/Data/Categories") {
+    topics: children {
+      # topic
+      id
+      ... on Topic {
+        categoryId {
+          value
+        },
+        title {
+          value
+        }
+      }
+
+      categories: children {
+        # category
+        id
+        ... on Category {
+          categoryId {
+            value
+          },
+          title {
+            value
+          }
+          links {
+            count
+          }
+        }
+      }
+    }
+  }
+}
