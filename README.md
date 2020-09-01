@@ -6,5 +6,9 @@ The documentation is coming shortly.
 
 ## Authors
 
-Maciej Gontarz
-Martin Miles
+
+[Maciej Gontarz](http://blog.binboy.net "Maciej Gontarz")
+
+
+[Martin Miles](https://blog.martinmiles.net "Martin Miles")
+
