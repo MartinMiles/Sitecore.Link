@@ -1,7 +1,7 @@
 {
   "name": "sitecore-link",
   "description": "Application utilizing Sitecore JavaScript Services and React (create-react-app).",
-  "version": "12.0.0",
+  "version": "14.0.0",
   "private": true,
   "config": {
     "appName": "sitecore-link",
@@ -36,7 +36,7 @@
     "@material-ui/core": "^4.7.0",
     "@material-ui/icons": "^4.5.1",
     "@material-ui/lab": "^4.0.0-alpha.33",
-    "@sitecore-jss/sitecore-jss-react": "^12.0.0",
+    "@sitecore-jss/sitecore-jss-react": "^14.0.0",
     "apollo-cache-inmemory": "~1.3.12",
     "apollo-client": "~2.4.8",
     "apollo-link-batch-http": "~1.2.6",
@@ -60,9 +60,9 @@
   },
   "devDependencies": {
     "@babel/register": "~7.0.0",
-    "@sitecore-jss/sitecore-jss-cli": "^12.0.0",
-    "@sitecore-jss/sitecore-jss-dev-tools": "^12.0.0",
-    "@sitecore-jss/sitecore-jss-manifest": "^12.0.0",
+    "@sitecore-jss/sitecore-jss-cli": "^14.0.0",
+    "@sitecore-jss/sitecore-jss-dev-tools": "^14.0.0",
+    "@sitecore-jss/sitecore-jss-manifest": "^14.0.0",
     "babel-loader": "8.0.4",
     "babel-preset-react-app": "~7.0.0",
     "chalk": "~2.4.2",
