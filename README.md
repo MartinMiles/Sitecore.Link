@@ -1,10 +1,8 @@
-# Sitecore Link
-
 ![Sitecore Link logo](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Link/img/logo.png "Sitecore Link logo")
 
 This repository contains the actual code for Sitecore Link project built with Sitecore JSS. The application uses React as a front-end library and does not use Redux.
 
-## Prerequisites
+# Prerequisites
 
 It is assumed that you already have an instance of Sitecore 10 with JSS 14.0 installed. 
 
@@ -13,12 +11,12 @@ If not, please install [JSS package](https://dev.sitecore.net/Downloads/Sitecore
 `npm install -g @sitecore-jss/sitecore-jss-cli`
 
 
-
-## Installation
+# Installation
 
 There certain steps to get the code from repository up and running. At first sight, it may look slightly complicated, however any average Sitecore developer is able to complete these steps with an ease.
 
-### 1. API key
+
+## 1. Creating API key
 
 After you have installed JSS, you need to create an API key. In order to do that, navigate to `/sitecore/system/Settings/Services/API Keys` and create a new API key item:
 
@@ -36,7 +34,7 @@ https://sc.local/sitecore/api/layout/render/jss?item=/&sc_apikey={A5B2F507-FB22-
 If everything done correctly, the above endpoint returns JSON for the default home page, starting with 'sitecore' object at the very top. That means JSS works perfectly well and you are able to consume headless content via your API key.
 
 
-## 2. Core
+## 2. Creating a core Solr 
 
 Sitecore Link website operates large data worth of tens of thousands records, each of them represented by a Sitecore item stored in a bucket. That is why content search is essential to the solution and is used to search and supply the data. Since we're using Solr as an indexing provider, we need to set up a new core in Solr for the context to be indexed. You can use SIF PowerShell to create a core, or you can do that manually. Regardless of the approach, you'll end up with a new core name:
 
@@ -55,7 +53,7 @@ with
     index: "sitecore_master_link_index"
 
 
-### 3. Get modules
+## 3. Getting modules
 
 Now we need to load all node modules for our application references at `package.json` configuration.  At the root of repository type and execute:
 
@@ -64,7 +62,7 @@ Now we need to load all node modules for our application references at `package.
 Please ignore the warnings as they do not mean much in this context.
 
 
-### 4. Setup JSS
+## 4. Setup JSS
 
 Now let's go back to JSS. we are going to setup application. At the root of repository type and execute:
 
@@ -100,7 +98,7 @@ You may just press enter to accept the default behaviour
 The setup process endss up with a `scjssconfig.json` file generated at root of your cloned repository, this file will be used for further JSS opertion.
 
 
-### 5. Few more configuration
+## 5. Few more configuration
 
 Got to the configuration `sitecore\config\sitecore-link.config` and replace this line 
 
@@ -118,7 +116,7 @@ Next, within the same directory `Sitecore.ContentSearch.Solr.Index.Master.Link.c
 Hint: do not change the index name, only the core. Index name should remain as `sitecore_master_link_index`.
 
 
-### 6. Deploy the configs
+## 6. Deploying
 
 Now with all the preparations done, it is possible to deploy the configurations to Sitecore. With values provided at the step 4 JSS CLI now know where and how to do the deployments. Let's start with configs first: 
 
@@ -148,7 +146,7 @@ This time it will take a while for operation to complete. When done, you'll see 
 ![Successful confirmation](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Link/img/5.success.png "Successful confirmation")
 
 
-### 7. Get the data
+## 7. Applying the data
 
 At this stage JSS app is already there up and running, however with no data. The repository contains data packages required for app to run, located under `data\content\` folder. You need to install two Sitecore packages, one after another:
 
@@ -158,14 +156,14 @@ At this stage JSS app is already there up and running, however with no data. The
 After data packages you may get and error mesage on publishing:end event. It comes due to the index configurations we've added at previous steps as the new index has never been built. Let's do that!
 
 
-### 8. Rebuild the indexes
+## 8. Rebuilding the index
 
 Just as you normally do, for example you can do that at Indexing Manager from Control Panel:
 
 ![Rebuilding indexes](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Link/img/6.rebuild.png "Rebuilding indexes")
 
 
-### 9. Open it in browser
+## 9. Trying it in a browser
 
 Finally, we've done all the steps and can verify the site in browser:
 
@@ -175,11 +173,9 @@ Finally, we've done all the steps and can verify the site in browser:
 **Tip:** if you see yellow screen with Network Error complaining that request failed do to unable to verify the first certificate, it is know temporal bug. To bypass, type any internap page, ie. `https://<HOSTNAME>/about` and then click to project logo at the top left corner: it will bring you to the main page.
 
 
-## Authors
-
+# Authors
 
 [Maciej Gontarz](http://blog.binboy.net "Maciej Gontarz")
 
 
 [Martin Miles](https://blog.martinmiles.net "Martin Miles")
-
