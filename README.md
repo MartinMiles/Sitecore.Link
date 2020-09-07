@@ -2,7 +2,7 @@
 
 ![Sitecore Link logo](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Link/img/logo.png "Sitecore Link logo")
 
-This repository contains the actual code for Sitecore Link project built with Sitecore JSS.
+This repository contains the actual code for Sitecore Link project built with Sitecore JSS. The application uses React as a front-end library and does not use Redux.
 
 ## Prerequisites
 
