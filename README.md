@@ -5,6 +5,7 @@
 
 This repository contains source code for **Sitecore Link** project.
 Tech stack:
+
 - Sitecore JSS 14.0 (Sitecore 10 compatible)
 - React JS 16.8
 - GraphQL
@@ -17,11 +18,16 @@ The assumption is that you already have an instance of **Sitecore 10** with **JS
 
 If not, please install [JSS package](https://dev.sitecore.net/Downloads/Sitecore_JavaScript_Services/140/Sitecore_JavaScript_Services_1400.aspx "JSS package") 
 
+Generally speaking, there are 2 approaches on how you can get this code up and running on your local Sitecore 10 instance:
 
-# Installation
+- [Manual Installation](#manual-installation)
+- [Scripted build and deployment using Sifon](#scripted-build-and-deployment-using-sifon)
+
+
+# Manual Installation
 
 The following step-by-step guide will get you through the complete installation process. If you have not worked with JSS before this installation process it might seem slightly complicated, however, we've carefully covered all the details and tested it to make sure you'll get your app up and running easily.
-The setup process of a sample instance is also covered by Sitecore and can be found [here](https://jss.sitecore.com/docs/getting-started/app-deployment "Sitecore JSS documentation").
+The setup process of a sample JSS instance is also covered by Sitecore and can be found [here](https://jss.sitecore.com/docs/getting-started/app-deployment "Sitecore JSS documentation").
 
 
 # Configuring you Sitecore instance
@@ -200,6 +206,22 @@ Verify the site runs properly in the browser:
 ![Watch the result in browser](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Link/img/7.result.png "Watch the result in browser")
 
 **Tip:** if you see yellow screen with Network Error complaining that request failed do to unable to verify the first certificate, it is a known temporal bug. To bypass, nagivate to any internal page, e.g.: `https://<HOSTNAME>/about` and click to project logo at the top left corner to get back to the main page.
+
+
+
+
+
+# Scripted build and deployment using Sifon
+
+Going through all the above steps is not mandatory since all these steps are scripted and tested using PowerShell. We provide an automated script that does "all the magic" so that you can get the above code running on your JSS just in a matter of few clicks.
+
+The script is implemented in a form of Sifon plugin, and is optimised for output and run with this tool. However, there no strict requirement to execute it from Sifon - you may still call it manually providing all the parameters. Sifon as a tool just makes the whole process smoother, much more user friendly. You don't even need to find and download plugins - it does this job for you! Just watch this video bellow where the enteri process is shown - isn't that simple?
+
+<p><iframe width="500" height="281" src="https://youtu.be/BGGBcvjPKOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+**Please note:** this plugin does not install JSS and JSS CLI, it is assumed that you already have in it provisioned along with your Sitecore instance. However Sifon has a [dedicated plugin](https://github.com/MartinMiles/Sifon.Plugins/blob/master/Install/Install-SitecorePackage.ps1 "Sifon plugin for installing JSS and CLI") for doing exactly that - installing JSS 14.0 over Sitecore 10 XP instance.
+
+You can get the latest version of Sifon from [Sifon.UK](https://sifon.uk "Sifon website") website, a well as read more about this helpful tool and ways it helps Sitecore professionals with their day-to-day tasks.
 
 
 # Authors
