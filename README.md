@@ -18,7 +18,7 @@ The assumption is that you already have an instance of **Sitecore 10** with **JS
 
 If not, please install [JSS package](https://dev.sitecore.net/Downloads/Sitecore_JavaScript_Services/140/Sitecore_JavaScript_Services_1400.aspx "JSS package") 
 
-Generally speaking, there are 2 approaches on how you can get this code up and running on your local Sitecore 10 instance:
+Generally speaking, there are **2 alternative approaches** on how you can get this code up and running on your local Sitecore 10 instance. Both described below:
 
 - [Manual Installation](#manual-installation)
 - [Scripted build and deployment using Sifon](#scripted-build-and-deployment-using-sifon)
