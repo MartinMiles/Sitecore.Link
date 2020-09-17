@@ -217,7 +217,7 @@ Going through all the above steps is not mandatory since all these steps are scr
 
 The script is implemented in a form of Sifon plugin, and is optimised for output and run with this tool. However, there no strict requirement to execute it from Sifon - you may still call it manually providing all the parameters. Sifon as a tool just makes the whole process smoother, much more user friendly. You don't even need to find and download plugins - it does this job for you! Just watch this video bellow where the enteri process is shown - isn't that simple?
 
-<p><iframe width="500" height="281" src="https://youtu.be/BGGBcvjPKOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/BGGBcvjPKOQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 **Please note:** this plugin does not install JSS and JSS CLI, it is assumed that you already have in it provisioned along with your Sitecore instance. However Sifon has a [dedicated plugin](https://github.com/MartinMiles/Sifon.Plugins/blob/master/Install/Install-SitecorePackage.ps1 "Sifon plugin for installing JSS and CLI") for doing exactly that - installing JSS 14.0 over Sitecore 10 XP instance.
 
