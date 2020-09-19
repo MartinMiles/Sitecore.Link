@@ -14,7 +14,7 @@ Tech stack:
 
 # Prerequisites
 
-The assumption is that you already have an instance of **Sitecore 10** with **JSS 14.0** installed.
+The assumption is that you already have an instance of **Sitecore 10.0** with **JSS 14.0** installed.
 
 If not, please install [JSS package](https://dev.sitecore.net/Downloads/Sitecore_JavaScript_Services/140/Sitecore_JavaScript_Services_1400.aspx "JSS package") 
 
