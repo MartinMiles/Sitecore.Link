@@ -205,7 +205,7 @@ Verify the site runs properly in the browser:
 
 ![Watch the result in browser](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Link/img/7.result.png "Watch the result in browser")
 
-**Tip:** if you see yellow screen with Network Error complaining that request failed do to unable to verify the first certificate, it is a known temporal bug. To bypass, navigate to any internal page, e.g.: `https://<HOSTNAME>/about` and click to project logo at the top left corner to get back to the main page.
+**Tip:** if you see yellow screen with Network Error complaining that request failed do to unable to verify the first certificate, it is a known temporal bug. To bypass, navigate to any internal page, e.g.: `https://<HOSTNAME>/about` and click to project logo in the top left corner to get back to the main page.
 
 
 
