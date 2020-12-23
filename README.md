@@ -128,7 +128,7 @@ Provide the ID (without brackets) of your JSS key item you created earlier at st
 Press 'Enter' to generate a new one
 
 
-The setup process ends up with a `scjssconfig.json` file generated at root of your cloned repository, this file will be used for further JSS opertion.
+The setup process ends up with a `scjssconfig.json` file generated at root of your cloned repository, this file will be used for further JSS operation.
 
 
 ## 3. Few more configuration changes
