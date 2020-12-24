@@ -97,7 +97,7 @@ Please ignore the warnings as they do not mean much in this context.
 
 ## 2. Setting up your JSS connection with Sitecore
 
-Now let's go back to JSS. we are going to setup application. At the root of repository type and execute:
+Now let's go back to JSS: we are going to setup application. At the root of repository type and execute:
 
     jss setup
 
