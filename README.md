@@ -61,7 +61,7 @@ Sitecore Link website operates large data worth of tens of thousands records, ea
 
 Do not forget to `Reload` after adding a core.
 
-Initially, code is configured for convenient development in your local environment where the master database is indexed. However, if you'd like to scale out your instance and search the indexed web database content, we're also providing you with the index configuration for the web database. Beside that. you need to make 2 small changes in code:
+Initially, code is configured for convenient development in your local environment where the master database is indexed. However, if you'd like to scale out your instance and search the indexed web database content, we're also providing you with the index configuration for the web database. Beside that, you need to make 2 small changes in code:
 - in `src\global\constants.js` replace:
 
       index: "sitecore_master_link_index"
