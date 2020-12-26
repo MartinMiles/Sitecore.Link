@@ -215,7 +215,7 @@ Verify the site runs properly in the browser:
 
 Going through all the above steps is not mandatory since all these steps are scripted and tested using PowerShell. We provide an automated script that does "all the magic" so that you can get the above code running on your JSS just in a matter of few clicks.
 
-The script is implemented in a form of Sifon plugin, and is optimised for output and run with this tool. However, there no strict requirement to execute it from Sifon - you may still call it manually providing all the parameters. Sifon as a tool just makes the whole process smoother, much more user-friendly. You don't even need to find and download plugins - it does this job for you! Just watch this video bellow where the whole process is shown - isn't that simple?
+The script is implemented in a form of Sifon plugin, and is optimized for output and run with this tool. However, there no strict requirement to execute it from Sifon - you may still call it manually providing all the parameters. Sifon as a tool just makes the whole process smoother, much more user-friendly. You don't even need to find and download plugins - it does this job for you! Just watch this video bellow where the whole process is shown - isn't that simple?
 
 [![Watch the video](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Link/img/Play.Video.Sifon.png)](https://youtu.be/BGGBcvjPKOQ)
 
